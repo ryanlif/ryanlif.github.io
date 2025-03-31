@@ -6,8 +6,6 @@ const nextConfig = {
 	poweredByHeader: false,
 	swcMinify: true,
   	reactStrictMode: true,
-	images: {
-    unoptimized: true,},
 };
 
 module.exports = withOffline(nextConfig);
