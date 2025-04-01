@@ -18,4 +18,4 @@ const News = (): JSX.Element => {
 
 
 
-export default Teaching;
+export default News;
