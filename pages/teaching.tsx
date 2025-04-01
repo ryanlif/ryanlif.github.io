@@ -1,17 +1,12 @@
 import {NextPage} from 'next';
 
+import TeachingList from '../components/TeachingList';
 import INDE310 from '../components/INDE310';
 import INDE412 from '../components/INDE412';
 
-
-const Style={
-    height: 498,
-    width: 680,
-    frameborder: 0
-}
-
 const Teaching: NextPage<unknown> = () => (
     <>
+        <TeachingList/>
         <INDE310/>
         <INDE412/>
     </>
