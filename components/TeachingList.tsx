@@ -1,4 +1,4 @@
-import TeachingItem from './PublicationItem'
+import TeachingItem from './TeachingItem'
 import data from './data/teaching.json'
 
 const TeachingList = (): JSX.Element => {
