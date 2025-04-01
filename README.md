@@ -3,7 +3,7 @@
 This website is my academic portfolio. Please feel free to use the code to build your portfolio with your own design.
 
 ## Acknowledgement
-This website is built on this [academic website template](https://nextjs-academic-theme.vercel.app/) with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) (Dark/Light mode). Please see their [github](https://github.com/lydhr/NextJSAcademicTheme?tab=readme-ov-file) for more help. The template is inspired by [https://kepinski.ch/](https://github.com/xxczaki/site) and their code is released under [WTFPL](http://www.wtfpl.net/).
+This website is built on this [academic website template](https://nextjs-academic-theme.vercel.app/) with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) (Dark/Light mode). If you want to use the template, please see their [github](https://github.com/lydhr/NextJSAcademicTheme?tab=readme-ov-file) for more help. The template is inspired by [https://kepinski.ch/](https://github.com/xxczaki/site) and their code is released under [WTFPL](http://www.wtfpl.net/).
 
 Thanks a lot for the great design!
 
