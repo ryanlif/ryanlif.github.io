@@ -9,7 +9,7 @@ Thanks a lot for the great design!
 
 Please see the features of the template and development instructions below:
 
-## Highlights
+### Highlights
 
 - Built with:
     - [Next.js](https://nextjs.org/) (Thereby, hosting on [Vercel](https://vercel.com) is recommended. FREE)
@@ -21,7 +21,7 @@ Please see the features of the template and development instructions below:
 - Optimized SEO
 - Traffic tracking by Google Analytics
 
-## Development
+### Development
 
 ##### Install Node and NPM by NVM
 - For MacOS, `brew install NVM` or [install by script](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) (any OS)
