@@ -9,7 +9,7 @@ const Style={
     frameborder: 0
 }
 
-const Talks: NextPage<unknown> = () => {
+const Teaching: NextPage<unknown> = () => {
     const [loading, setLoading] = useState(true);
 
     return (
@@ -20,4 +20,4 @@ const Talks: NextPage<unknown> = () => {
     );
 };
 
-export default Talks;
+export default Teaching;
