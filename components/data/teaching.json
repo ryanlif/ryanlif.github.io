@@ -1,11 +1,43 @@
 [
     {
-        "id": "MG101",
-        "name": "Introduction to magic"
+        "id": "IND E 310",
+        "course": "Linear and Network Programming",
+        "responsibility": "Teaching Assistant",
+        "description": "Modeling and optimization of linear network problems. Topics include optimization of linear systems, mathematical model design, simplex method, primal-dual algorithms, parametric programming, goal programming, network problems and algorithms.",
+        "links": [
+			{
+				"name": "syllabus",
+				"url": "https://drive.google.com/file/d/1q0KtASC46uKhys2cMg0JxFSbliv1ifAK/view?usp=drive_link"
+			},
+			{
+				"name": "slides",
+				"url": ""
+			},
+            {
+				"name": "exams",
+				"url": ""
+			}
+		]
     },
     {
-        "id": "MG102",
-        "name": "Defense against the dark arts spells"
+        "id": "IND E 412",
+        "course": "Integer and dynamic programming"
+        "responsibility": "Sole Instructor",
+        "description": "Modeling and optimization of problems and dynamic programming approach to optimization. Topics include: integer programming formulation techniques, linear and Lagrangian relaxation, branch-and-bound and cutting-plane methods, integer programming applications, and dynamic programming. ",
+        "links": [
+			{
+				"name": "syllabus",
+				"url": "https://drive.google.com/file/d/1Xz4TptFviyelSMCeVldXlw4e7TVuqdbZ/view?usp=drive_link"
+			},
+			{
+				"name": "slides",
+				"url": "https://drive.google.com/file/d/1WgieqoIECQ65IoryScHyjFp4FtHJJ-2q/view?usp=drive_link"
+			},
+            {
+				"name": "exams",
+				"url": "https://drive.google.com/file/d/1RHcbHIgIBPLp4bic9KTvBOTaof9ZrVgn/view?usp=drive_link"
+			}
+		]
     }
 
 ]
