@@ -11,7 +11,7 @@ const ProfileImage = (): JSX.Element => {
             draggable={false}
             alt="My profile image"
             width={260}
-            height={200}/>
+            height={260}/>
     );
 };
 
