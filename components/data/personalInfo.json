@@ -1,31 +1,31 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
-    "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "title": "Ryan Lin",
+    "name": "Ryan (Feng) Lin",
+    "domain":"https://ryanflin.com/",
+    "copyright":"",
     "socialMedia": {
         "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
+        "LinkedIn": "https://www.linkedin.com/in/ryanlif/",
         "GoogleScholar": "https://scholar.google.com/"
     },
     "about": {
-        "year": "7th-year",
+        "year": "5th-year",
         "department": {
-            "name": "Gryffindor",
-            "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
+            "name": "Industrial and Systems Engineering",
+            "link": "https://ise.washington.edu/"
         },
         "college": {
-            "name": "Hogwarts School of Witchcraft and Wizardry",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
+            "name": "University of Washington",
+            "link": "https://www.washington.edu/"
         },
         "advisor": {
-            "name": "Albus Dumbledor",
-            "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
+            "name": "Shuai Huang",
+            "link": "https://www.shuaihuang.info/"
         },
-        "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+        "email": "ryanflin@uw.edu",
+        "interest": "Machine learning, Uncertainty quantification, Optimal experiment design"
     },
-    "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
+    "love": "",
     "education": [
         {
             "name": "The Auror Department(2007-2008, Visiting Scholar)",
