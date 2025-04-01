@@ -3,7 +3,8 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://nextjs-academic-theme.vercel.app/
+Host: https://ryanlif-github-io.vercel.app/
+
 
 # Sitemaps
-Sitemap: https://nextjs-academic-theme.vercel.app/sitemap.xml
+Sitemap: https://ryanlif-github-io.vercel.app/sitemap.xml
