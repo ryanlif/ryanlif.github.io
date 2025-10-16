@@ -1,5 +1,5 @@
 # Ryan (Feng) Lin's homepage
-## Info
+## Intro
 This website is my academic portfolio. Please feel free to use the code to build your portfolio with your own design.
 
 ## Acknowledgement
