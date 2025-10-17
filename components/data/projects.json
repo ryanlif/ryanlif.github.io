@@ -1,25 +1,22 @@
 [
     {
-        "title": "Quidditch Seeker SDK",
-        "description": "A tool help you practice Quidditch Cup Champion",
-        "img": "/images/projects/rules.png"
+        "title": "Risk360: An Auto-Evaluator of Your Risk Score Model",
+        "description": "This is an evaluation framework for the risk score models in healthcare. More details are coming soon.",
+        "link": "https://github.com/ryanlif/RiskScoreModels-Evaluation/tree/main",
+        "img": "/images/projects/riskscore.png"
     },
 
     {
-        "title": "Quidditch Seeker Tool",
-        "description": "A tool help you win Quidditch Cup Champion",
-        "img": "/images/projects/quidditch.png"
+        "title": "Fair Collaborative Learning (FairCL) for Model Personalizatio",
+        "description": "This general framework is designed to reduce individual disparities in model personalization and integrate a variety of fairness concepts. We provide a self-adaptive algorithm to learn ",
+        "link": "https://github.com/ryanlif/FairCL", 
+        "img": "/images/projects/faircl.png"
     },
 
     {
-        "title": "Quidditch Seeker SDK",
-        "description": "A tool help you practice Quidditch Cup Champion",
-        "img": "/images/projects/rules.png"
-    },
-
-    {
-        "title": "Quidditch Seeker Tool",
-        "description": "A tool help you win Quidditch Cup Champion",
-        "img": "/images/projects/quidditch.png"
+        "title": "Robust LDT: Modeling User Choice Behavior under Data Corruption",
+        "description": "The emergence of many new mobile Apps and usercentered systems that interact with users by offering choices with rewards. However, real-world user data is often prone to data corruptions. We propose ",
+        "link": "https://github.com/ryanlif/R-LDT",
+        "img": "/images/projects/RLDT.pdf"
     }
 ]
