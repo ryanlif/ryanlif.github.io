@@ -7,7 +7,7 @@ const News = (): JSX.Element => {
             <div className="text-base ml-4 text-gray-700 dark:text-gray-300">
                 <ul className="list-disc">
                   {data.map((updateInfo) => (
-                     <li> <span className="text-gray-200"></span><b>{updateInfo.date}:</b><span></span> {updateInfo.description}</li>
+                     <li> <span className="text-gray-100"></span><b>{updateInfo.date}:</b><span></span> {updateInfo.description}</li>
                   ))}
                 </ul>
             </div>
