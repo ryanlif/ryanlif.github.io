@@ -20,7 +20,7 @@ const About = (): JSX.Element => {
 						advised by Dr. <ExtLink href={personalInfo.about.advisor.link}> {personalInfo.about.advisor.name}. </ExtLink>
 						 <br/><a className = "text-sm">✉️ {personalInfo.about.email}</a>
 					</p>
-					<p className = "text-sm text-gray-600">
+					<p className = "text-sm">
 						Research Interest: {personalInfo.about.interest}
 					</p>
 					<p className = "text-sm text-gray-400">
