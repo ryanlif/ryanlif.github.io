@@ -1,24 +1,5 @@
 [
-	{
-        "id": "IND E 427/527",
-        "course": "Data Analytics for Systems Engineering",
-        "responsibility": "Teaching Assistant",
-        "description": "Emphasizes data-driven system modeling, including basic statistical learning models, and system modeling and decision-making. Covers experimental design for data collection, tree-based control charts for process monitoring, rule-based decision-making, and diagnosis of root causes as learning problems. Students develop connections between emerging statistical learning techniques with system modeling and optimization methods. ",
-        "links": [
-			{
-				"name": "syllabus",
-				"url": "https://analytics.shuaihuang.info/resource/slides/Syllabus_Analytics_SysEng.pdf"
-			},
-			{
-				"name": "website",
-				"url": "https://analytics.shuaihuang.info/"
-			},
-            		{
-				"name": "textbook",
-				"url": "https://www.shuaihuang.info/book"
-			}
-		]
-    },
+	
 	{
         "id": "IND E 412",
         "course": "Integer and Dynamic Programming",
@@ -39,6 +20,27 @@
 			}
 		]
     },
+	{
+        "id": "IND E 427/527",
+        "course": "Data Analytics for Systems Engineering",
+        "responsibility": "Teaching Assistant",
+        "description": "Emphasizes data-driven system modeling, including basic statistical learning models, and system modeling and decision-making. Covers experimental design for data collection, tree-based control charts for process monitoring, rule-based decision-making, and diagnosis of root causes as learning problems. Students develop connections between emerging statistical learning techniques with system modeling and optimization methods. ",
+        "links": [
+			{
+				"name": "syllabus",
+				"url": "https://analytics.shuaihuang.info/resource/slides/Syllabus_Analytics_SysEng.pdf"
+			},
+			{
+				"name": "website",
+				"url": "https://analytics.shuaihuang.info/"
+			},
+            		{
+				"name": "textbook",
+				"url": "https://www.shuaihuang.info/book"
+			}
+		]
+    },
+	
     {
         "id": "IND E 310",
         "course": "Linear and Network Programming",
