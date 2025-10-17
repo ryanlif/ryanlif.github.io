@@ -10,6 +10,7 @@ const ProjectItem = ({project, index}: ProjectProps): JSX.Element => {
         <div className="w-full bg-gray-50 p-8 rounded-bl-lg rounded-br-lg lg:rounded-bl-none lg:rounded-tr-lg">
           <h2 className="text-gray-700 font-semibold">{project.title}</h2>
           <p className="text-sm text-gray-500 mt-4">{project.description}</p>
+          <p className="text-sm text-gray-500 mt-4">{project.link}</p>
         </div>
       </div>
     )
