@@ -1,4 +1,5 @@
 import data from './data/news.json'
+import ReactMarkdown from "react-markdown";
 
 const News = (): JSX.Element => {
     return (
