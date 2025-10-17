@@ -2,21 +2,21 @@
     {
         "title": "Risk360: An Auto-Evaluator of Your Risk Score Model",
         "description": "This is an evaluation framework for the risk score models in healthcare. More details are coming soon.",
-        "link": "https://github.com/ryanlif/RiskScoreModels-Evaluation/tree/main",
+        "url": "https://github.com/ryanlif/RiskScoreModels-Evaluation/tree/main",
         "img": "/images/projects/riskscore.png"
     },
 
     {
         "title": "Fair Collaborative Learning (FairCL) for Model Personalizatio",
         "description": "This general framework is designed to reduce individual disparities in model personalization and integrate a variety of fairness concepts. We provide a self-adaptive algorithm to learn ",
-        "link": "https://github.com/ryanlif/FairCL", 
+        "url": "https://github.com/ryanlif/FairCL", 
         "img": "/images/projects/faircl.png"
     },
 
     {
         "title": "Robust LDT: Modeling User Choice Behavior under Data Corruption",
         "description": "The emergence of many new mobile Apps and usercentered systems that interact with users by offering choices with rewards. However, real-world user data is often prone to data corruptions. We propose ",
-        "link": "https://github.com/ryanlif/R-LDT",
+        "url": "https://github.com/ryanlif/R-LDT",
         "img": "/images/projects/RLDT.png"
     }
 ]
