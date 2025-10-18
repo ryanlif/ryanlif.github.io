@@ -10,8 +10,8 @@ const About = (): JSX.Element => {
 			<div className="flex justify-between">
 				<div className="mr-8 hidden md:block rounded-md">
 					<ProfileImage></ProfileImage>
-					<p className="text-base mt-4 font-bold text-gray-700 dark:text-gray-100 hover:underline"><span>Email:</span> <a href={`mailto:${personalInfo.about.email}`} className="text-base text-gray-700 dark: text-gray-200">{personalInfo.about.email}</a> </p>
-					<p className="text-base mt-1 font-bold text-gray-700 dark:text-gray-100">Phone: <span className="text-base font-normal text-gray-700 dark: text-gray-200">+1 (206)-321-8275</span></p>
+					<p className="text-base mt-4 font-bold text-gray-700 dark:text-gray-200 hover:underline"><span>Email:</span> <a href={`mailto:${personalInfo.about.email}`} className="text-base text-gray-700 dark:text-gray-200">{personalInfo.about.email}</a> </p>
+					<p className="text-base mt-1 font-bold text-gray-700 dark:text-gray-200">Phone: <span className="text-base font-normal text-gray-700 dark:text-gray-200">+1 (206)-321-8275</span></p>
 				</div>
 				<div className="flex flex-col max-w-xl w-full justify-evenly">
 					<h1 className="text-4xl font-bold pb-8 md:pb-0">{personalInfo.name}</h1>
@@ -23,9 +23,9 @@ const About = (): JSX.Element => {
 						and M.S. degree in Computer Science from the University of Science and Technology of China in 2007.  
 						 <br/>
 					</p>
-					<p className = "text-xl font-bold text-gray-600 dark: text-gray-200"> Research Interest: </p>
-					<p className = "text-base font-bold text-gray-500 dark: text-gray-100"> Methodologies: <span className="font-normal">{personalInfo.about.interest.methodology}</span></p>
-					<p className = "text-base font-bold text-gray-500 dark: text-gray-100"> Applications: <span className="font-normal">{personalInfo.about.interest.application}</span></p>
+					<p className = "text-xl font-bold text-gray-600 dark:text-gray-200"> Research Interest: </p>
+					<p className = "text-base font-bold text-gray-500 dark:text-gray-100"> Methodologies: <span className="font-normal">{personalInfo.about.interest.methodology}</span></p>
+					<p className = "text-base font-bold text-gray-500 dark:text-gray-100"> Applications: <span className="font-normal">{personalInfo.about.interest.application}</span></p>
 					{/* <p className = "text-sm text-gray-400">
 						Under construction......<br/>
 						Re-architecting this site with some modern web technologies.
