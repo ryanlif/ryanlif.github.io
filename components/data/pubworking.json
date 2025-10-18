@@ -22,7 +22,7 @@
 		"conference": "JAMA Network Open",
 		"links": [
 			{
-				"name": "pdf",
+				"name": "Preprint",
 				"url": ""
 			}
 		]
@@ -30,30 +30,21 @@
 
 	{
 		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "<b>Ryan F. Lin</b>, Xufeng Cai, Lei Yuan, Boying Liu, Ali Selman Aydin, Ziwei Guan, Wenbo Ren, Yuting Zhang, Qunshu Zhang, Shuai Huang, Yinglong Xia, and Ji Liu",
+		"title": "Robust Contextual Optimization for Personalization",
+		"status": "",
+		"conference": "",
 		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
 		]
 	},
 
 	{
 		"id": 2,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "<b>Ryan F. Lin</b>, Xiaoning Qian, and Shuai Huang",
+		"title": "Relieving the Myopia: Bayesian Active Learning by Mean Objective Cost of Uncertainty with Confidence Ascending",
+		"status": "",
+		"conference": "",
+		"note": "",
 		"links": [
 			{
 				"name": "pdf",
@@ -72,9 +63,11 @@
 
 	{
 		"id": 1,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "A Survey of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Yuantao Wei$^{\\dagger}(\\star)$, \textbf{Ryan F. Lin}$^{\\dagger}$, and Shuai Huang",
+		"title": "Learning Causal Graph from Human Knowledge: A Mixture-of-Chains Framework",
+		"status": "",
+		"conference": "",
+		"note": "",
 		"links": [
 			{
 				"name": "pdf",
