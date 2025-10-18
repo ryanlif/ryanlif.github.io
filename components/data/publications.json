@@ -1,7 +1,8 @@
 [
 	{
 		"id": 5,
-		"author": "Congjing Zhang$^\\dagger$$(\\star)$, \\textbf{Ryan F. Lin}$^\\dagger$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
+		// "author": "Congjing Zhang$^\\dagger$$(\\star)$, \\textbf{Ryan F. Lin}$^\\dagger$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
+		"author": "Congjing Zhang^2",
 		"title": "ALARM: Automated LLM-Based Anomaly Detection in SmaRt-Home Monitoring with Uncertainty Quantification",
 		"conference": "INFORMS Journal on Data Science",
 		"links": [
@@ -20,26 +21,26 @@
 		]
 	},
 
-	{
-		"id": 4,
-		"author": "\\textbf{Ryan F. Lin}$^\\dagger$, Keyu Tian$^\\dagger$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
-		"title": "CrowdLLM: A Synthetic Crowd of LLM-based Decision-Makers Augmented with Generative Models",
-		"conference": "INFORMS Journal on Data Science",
-		"links": [
-			// {
-			// 	"name": "pdf",
-			// 	"url": ""
-			// },
-			// {
-			// 	"name": "slides",
-			// 	"url": ""
-			// },
-			// {
-			// 	"name": "video",
-			// 	"url": ""
-			// }
-		]
-	},
+	// {
+	// 	"id": 4,
+	// 	"author": "\\textbf{Ryan F. Lin}$^\\dagger$, Keyu Tian$^\\dagger$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
+	// 	"title": "CrowdLLM: A Synthetic Crowd of LLM-based Decision-Makers Augmented with Generative Models",
+	// 	"conference": "INFORMS Journal on Data Science",
+	// 	"links": [
+	// 		// {
+	// 		// 	"name": "pdf",
+	// 		// 	"url": ""
+	// 		// },
+	// 		// {
+	// 		// 	"name": "slides",
+	// 		// 	"url": ""
+	// 		// },
+	// 		// {
+	// 		// 	"name": "video",
+	// 		// 	"url": ""
+	// 		// }
+	// 	]
+	// },
 
 	{
 		"id": 3,
