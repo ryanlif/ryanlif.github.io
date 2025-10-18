@@ -1,3 +1,5 @@
+import ExtLink from './ExtLink';
+
 interface ProjectProps {
     project: any;
     index: number;
