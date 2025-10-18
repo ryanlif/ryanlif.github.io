@@ -3,7 +3,7 @@ import data from './data/projects.json'
 
 const ProjectList = (): JSX.Element => {
     return (
-        <section className="grid" id="projects">
+        <section className="grid" id="project">
             <h2 className="text-xl font-bold mt-12 mb-4">Projects</h2>
             <div>
                 {data.map((project, index) => (
