@@ -1,71 +1,30 @@
 [
 	{
-		"id": 5,
-		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
-		"title": "ALARM: Automated LLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification",
-		"status": "Under review at ",
-		"conference": "INFORMS Journal on Data Science",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 4, 
-		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Keyu Tian$^{\\dagger}$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
-		"title": "CrowdLLM: A Synthetic Crowd of LLM-based Decision-Makers Augmented with Generative Models",
-		"status": "In submission to ",
-		"conference": "INFORMS Journal on Data Science",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			}
-		]
-	},
-
-	{
 		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"status": "",
+		"author": "Congjing Zhang$^{\\dagger}(\\star)$, \textbf{Ryan F. Lin}$^{\\dagger}$, and Shuai Huang",
+		"title": "Team, then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation",
+		"status": "Under review at ",
+		"conference": "the 14th International Conference on Learning Representations (ICLR)",
+		"year": "",
+		"note": "",
 		"links": [
 			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
+				"name": "Preprint",
 				"url": ""
 			}
 		]
 	},
 
 	{
-		"id": 2,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"status": "",
+		"id": 2, 
+		"author": "Yunkai Zhang, Qiang Zhang, Diji Yang, <b>Ryan F. Lin</b>, Ruizhong Qiu, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, and Zeyu Zheng",
+		"title": "Enhancing Generative Recommender Systems via Structured Human Priors with Multi-head Decoding",
+		"status": "Under review at ",
+		"conference": "the ACM Web Conference (WWW) 2026",
+		"note": "",
 		"links": [
 			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
+				"name": "Preprint",
 				"url": ""
 			}
 		]
@@ -73,17 +32,21 @@
 
 	{
 		"id": 1,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "A Survey of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Junyuan Hong, Huanhuan Chen, and <b>Ryan F. Lin</b>",
+		"title": "Disturbance Grassmann Kernels for Subspace-Based Learning",
+		"Status": "In Proc. of ",
+		"conference": "the 24th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
+		"year": "2018",
+		"status": "",
+		"note": "Acceptance rate <u>$18.4\\%$</u> in year of submission.",
 		"links": [
 			{
-				"name": "pdf",
-				"url": ""
+				"name": "Paper",
+				"url": "https://dl.acm.org/doi/10.1145/3219819.3219959"
 			},
 			{
-				"name": "slides",
-				"url": ""
+				"name": "Video",
+				"url": "https://www.youtube.com/watch?v=1qLHgSrcZ4M"
 			}
 		]
 	}

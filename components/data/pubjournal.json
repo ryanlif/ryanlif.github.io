@@ -25,7 +25,7 @@
 		"conference": "INFORMS Journal on Data Science",
 		"status": "In submission to ",
 		"year": "",
-		"note": "finalist of INFORMS QSR best paper competition",
+		"note": "Finalist of INFORMS QSR best paper competition",
 		"links": [
 			{
 				"name": "Paper",
@@ -45,15 +45,11 @@
 		"conference": "INFORMS Journal on Data Science",
 		"status": "",
 		"year": "2025",
-		"note": "finalist of INFORMS QSR best paper competition",
+		"note": "Finalist of INFORMS QSR best paper competition",
 		"links": [
 			{
 				"name": "Paper",
 				"url": "https://doi.org/10.1287/ijds.2024.0029"
-			},
-			{
-				"name": "slides",
-				"url": ""
 			}
 		]
 	},
@@ -70,10 +66,6 @@
 			{
 				"name": "Paper",
 				"url": "https://doi.org/10.1080/24725854.2023.2279080"
-			},
-			{
-				"name": "slides",
-				"url": ""
 			}
 		]
 	}

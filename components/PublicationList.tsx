@@ -38,7 +38,7 @@ const PublicationList = (): JSX.Element => {
                 <PublicationItem publication={publication} index={index} key={index}/>
               ))}
             </div>
-            <h2 className="text-xl font-bold mt-12 mb-4">Working Papers</h2>
+            <h2 className="text-xl font-bold mt-12 mb-4">Working Papers<span><i>(Full preprints coming soon.)</i></span></h2>
             <div>
               {datc.map((publication, index) => (
                 <PublicationItem publication={publication} index={index} key={index}/>

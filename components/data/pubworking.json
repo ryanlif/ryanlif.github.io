@@ -1,20 +1,13 @@
 [
 	{
 		"id": 5,
-		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
-		"title": "ALARM: Automated LLM-Based Anomaly Detection in SmaRt-Home Monitoring with Uncertainty Quantification",
-		"conference": "Under review at INFORMS Journal on Data Science",
+		"author": "<b>Ryan F. Lin</b>, Ji Liu, and Shuai Huang,",
+		"title": "Learning to Collect: A Two-Stage Data Collection Framework for Data-Efficient Personalization",
+		"status": "In submission to ",
+		"conference": "INFORMS Journal on Data Science",
 		"links": [
 			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
+				"name": "arxiv",
 				"url": ""
 			}
 		]
@@ -22,21 +15,14 @@
 
 	{
 		"id": 4, 
-		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Keyu Tian$^{\\dagger}$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
+		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Congjing Zhang$^{\\dagger}(\\star)$,  Kendra Vehik, Hemang Parikh, Mingqian Li, Richard Oram, Xiaoning Qian, and Shuai Huang",
 
-		"title": "CrowdLLM: A Synthetic Crowd of LLM-based Decision-Makers Augmented with Generative Models",
-		"conference": "In submission to INFORMS Journal on Data Science",
+		"title": "Benchmarking Fairness of Genetic Risk Score Models for Early-stage Prediction of Type 1 Diabetes from the TEDDY study",
+		"status": "To be submitted to ",
+		"conference": "JAMA Network Open",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
 				"url": ""
 			}
 		]

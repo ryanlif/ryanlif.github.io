@@ -32,7 +32,7 @@ const PublicationItem = ({publication, index}: Props): JSX.Element => {
                 <a className = "text-base">{publication.status}<i>{publication.conference}</i>{publication.year && ', '}<a className="text-base">{publication.year}</a></a>
             </p>
             <p className = "text-base bold text-gray-700 dark:text-gray-200 flex justify-between items-center">
-                <span className = "text-sky-600">{publication.note}</span>
+                <span className = "text-sky-600"><span dangerouslySetInnerHTML={{ __html: publication.note }}/></span>
                 <span className = "text-base text-gray-600 dark:text-gray-300">
                 {publication.links.map((linkItem: any, idx: any) => (
                     <ExtLink href={linkItem.url} key={idx}> [{linkItem.name}] &nbsp;</ExtLink>
