@@ -4,6 +4,12 @@ import datb from './data/pubconf.json'
 import datc from './data/pubworking.json'
 import { useEffect } from "react";
 
+declare global {
+  interface Window {
+    MathJax?: any;
+  }
+}
+
 const PublicationList = (): JSX.Element => {
     useEffect(() => {
             // When MathJax is loaded and this component renders, typeset LaTeX
@@ -17,8 +23,8 @@ const PublicationList = (): JSX.Element => {
         <section className="grid w-full" id="publication">
             <div>
               <p>In the list below, I indiciate with:</p>
-              $\dagger$ &nbsp;&nbsp; equal contribution
-              $(\star)$ &nbsp;&nbsp; graduate students I mentor as co-authors
+              <p>$\\dagger$ &nbsp;&nbsp; equal contribution</p>
+              <p>$(\\star)$ &nbsp;&nbsp; graduate students I mentor as co-authors</p>
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Refereed Journal Paper</h2>
             <div>
