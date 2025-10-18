@@ -1,5 +1,6 @@
 import {AppProps} from 'next/app';
 import Head from 'next/head';
+import Script from 'next/script';
 import {ThemeProvider, useTheme} from 'next-themes';
 
 import Layout from '../components/Layout';
@@ -24,6 +25,11 @@ const App = ({Component, pageProps}: Readonly<AppProps>): JSX.Element => {
 				<meta property="og:locale" content="en_US"/>
 				<meta property="og:type" content="website"/>
 			</Head>
+			<Script
+				id="mathjax-cdn"
+				strategy="afterInteractive"
+				src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+			/>
 			<Layout>
 				<main className="flex flex-col m-auto leading max-w-4xl items-start p-5">
 					<Component {...pageProps}/>
