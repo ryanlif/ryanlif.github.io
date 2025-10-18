@@ -10,8 +10,14 @@ const PublicationList = (): JSX.Element => {
                 <PublicationItem publication={publication} index={index} key={index}/>
               ))}
             </div>
-
+            <h2 className="text-xl font-bold mt-12 mb-4">Working Papers</h2>
+            <div>
+              {data.map((publication, index) => (
+                <PublicationItem publication={publication} index={index} key={index}/>
+              ))}
+            </div>
         </section>
+
     );
 };
 
