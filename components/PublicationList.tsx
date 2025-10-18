@@ -1,18 +1,30 @@
 import PublicationItem from './PublicationItem'
-import data from './data/publications.json'
+import data from './data/pubjournal.json'
+import datb from './data/pubconf.json'
+import datc from './data/pubworking.json'
 
 const PublicationList = (): JSX.Element => {
     return (
         <section className="grid w-full" id="publication">
-            <h2 className="text-xl font-bold mt-12 mb-4">Publications</h2>
+            <p>In the list below, I indiciate with:</p>
+            <p>$\\dagger$ &nbsp;&nbsp; equal contribution</p>
+            <p>$(\\star)$ &nbsp;&nbsp; graduate students I mentor as co-authors</p>
+            <h2 className="text-xl font-bold mt-12 mb-4">Refereed Journal Paper</h2>
             <div>
               {data.map((publication, index) => (
                 <PublicationItem publication={publication} index={index} key={index}/>
               ))}
             </div>
+            <h2 className="text-xl font-bold mt-12 mb-4">Peer-Reviewed Conference Papers</h2>
+            <div>
+              {datb.map((publication, index) => (
+                <PublicationItem publication={publication} index={index} key={index}/>
+              ))}
+            </div>
+            </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Working Papers</h2>
             <div>
-              {data.map((publication, index) => (
+              {datc.map((publication, index) => (
                 <PublicationItem publication={publication} index={index} key={index}/>
               ))}
             </div>

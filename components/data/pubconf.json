@@ -1,9 +1,9 @@
 [
 	{
 		"id": 5,
-		"author": "Congjing Zhang$^{\\dagger}(\\star)$, \\textbf{Ryan F. Lin}$^{\\dagger}$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
+		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
 		"title": "ALARM: Automated LLM-Based Anomaly Detection in SmaRt-Home Monitoring with Uncertainty Quantification",
-		"conference": "INFORMS Journal on Data Science",
+		"conference": "Under review at INFORMS Journal on Data Science",
 		"links": [
 			{
 				"name": "pdf",
@@ -21,9 +21,11 @@
 	},
 
 	{
-		"id": 4,
+		"id": 4, 
+		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Keyu Tian$^{\\dagger}$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
+
 		"title": "CrowdLLM: A Synthetic Crowd of LLM-based Decision-Makers Augmented with Generative Models",
-		"conference": "INFORMS Journal on Data Science",
+		"conference": "In submission to INFORMS Journal on Data Science",
 		"links": [
 			{
 				"name": "pdf",
