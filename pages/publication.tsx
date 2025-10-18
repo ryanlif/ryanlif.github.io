@@ -2,9 +2,9 @@ import {NextPage} from 'next';
 
 import PublicationList from '../components/PublicationList';
 
-const Publication: NextPage<unknown> = () => (
+const Publications: NextPage<unknown> = () => (
     <PublicationList/>
 );
 
-export default Publication;
+export default Publications;
 
