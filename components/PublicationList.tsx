@@ -15,11 +15,11 @@ const PublicationList = (): JSX.Element => {
     
     return (
         <section className="grid w-full" id="publication">
-            {/* <div>
+            <div>
               <p>In the list below, I indiciate with:</p>
               <p>$\\dagger$ &nbsp;&nbsp; equal contribution</p>
               <p>$(\\star)$ &nbsp;&nbsp; graduate students I mentor as co-authors</p>
-            </div> */}
+            </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Refereed Journal Paper</h2>
             <div>
               {data.map((publication, index) => (
