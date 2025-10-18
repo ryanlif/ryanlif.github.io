@@ -10,8 +10,8 @@ const TeachingList = (): JSX.Element => {
               in such an ever-changing and challenging world. I strive to foster a learning community that embraces a broad 
               spectrum of experiences and perspectives, ensuring that students from diverse backgrounds feel respected, 
               supported, and experience a profound sense of meaning and belonging.</p>
-            </div>
-            <div>
+            {/* </div>
+            <div> */}
               {data.map((teaching, index) => (
                 <TeachingItem teaching={teaching} index={index} key={index}/>
               ))}
