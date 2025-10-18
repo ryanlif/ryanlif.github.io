@@ -31,7 +31,7 @@ const Research = (): JSX.Element => {
                 and their applications in the real-world. My research works that focused on AI model personalization, human diversity and behavior, 
                 their relevance with LLMs and generative AI,  have been selected as finalists in the Best Paper Competition of INFORMS Quality, 
                 Statistics, and Reliability (QSR) Section in 2023 and 2025. A summary of my research is demonstrated in the overview figure. </p>
-              <img style="width:100%;" src="images/research.png" alt="" />
+              <img src="images/research.png" alt="" width="100%"/>
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Potential Funding Resources</h2>
             <div>
