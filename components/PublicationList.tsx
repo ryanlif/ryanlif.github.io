@@ -2,6 +2,7 @@ import PublicationItem from './PublicationItem'
 import data from './data/pubjournal.json'
 import datb from './data/pubconf.json'
 import datc from './data/pubworking.json'
+import { useEffect } from "react";
 
 const PublicationList = (): JSX.Element => {
     useEffect(() => {
