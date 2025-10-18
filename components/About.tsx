@@ -11,7 +11,7 @@ const About = (): JSX.Element => {
 				<div className="mr-8 hidden md:block rounded-md">
 					<ProfileImage></ProfileImage>
 					<p className="text-base mt-4 font-bold dark:text-gray-100 hover:underline">Email: </p><a href={`mailto:${personalInfo.about.email}`} className="text-sm">{personalInfo.about.email}</a>
-					</br> <p className="text-base mt-4 font-bold dark:text-gray-100 hover:underline">Phone: </p><p>+1 (206)-321-8275</p>
+					<br/> <p className="text-base mt-4 font-bold dark:text-gray-100 hover:underline">Phone: </p><p>+1 (206)-321-8275</p>
 				</div>
 				<div className="flex flex-col max-w-xl w-full justify-evenly">
 					<h1 className="text-4xl font-bold pb-8 md:pb-0">{personalInfo.name}</h1>
