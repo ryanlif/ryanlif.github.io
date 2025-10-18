@@ -27,10 +27,6 @@ const PublicationItem = ({publication, index}: Props): JSX.Element => {
 
     return (
         <div className = "mt-4 mb-8">
-            <div ref={ref}>
-                Inline math: $E = mc^2$ <br />
-                Block math: $$\\int_0^1 x^2 dx = \\frac{1}{3}$$
-            </div> 
             <p className = "text-base text-gray-500">
                 [{index}] {publication.author}{' '} <b><i>{publication.title}</i></b><br/>
                 <a className = "text-sm">{publication.conference}</a>
