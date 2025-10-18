@@ -23,13 +23,13 @@ const About = (): JSX.Element => {
 						and M.S. degree in Computer Science from the University of Science and Technology of China in 2007.  
 						 <br/>
 					</p>
-					<p className = "text-sm text-gray-600">
-						Research Interest: {personalInfo.about.interest}
-					</p>
-					<p className = "text-sm text-gray-400">
+					<p className = "text-xl font-bold text-gray-600 dark: text-gray-200"> Research Interest: </p>
+					<p className = "text-base font-bold text-gray-500 dark: text-gray-100"> Methodologies: <span className="font-normal">{personalInfo.about.interest.methodology}</span></p>
+					<p className = "text-base font-bold text-gray-500 dark: text-gray-100"> Applications: <span className="font-normal">{personalInfo.about.interest.application}</span></p>
+					{/* <p className = "text-sm text-gray-400">
 						Under construction......<br/>
 						Re-architecting this site with some modern web technologies.
-					</p>
+					</p> */}
 				</div>
 			</div>
 		</section>

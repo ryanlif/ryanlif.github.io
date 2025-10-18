@@ -23,7 +23,11 @@
             "link": "https://www.shuaihuang.info/"
         },
         "email": "ryanflin@uw.edu",
-        "interest": "Machine learning, Uncertainty quantification, Optimal experiment design"
+        "interest": {
+            "methodology": "Machine Learning and Artificial Intelligence, Uncertainty Quantification, Optimal Experimental Design",
+            "application": "Healthcare and Medicine, Transportation, Marketing"
+        }
+
     },
     "love": "",
     "education": [
