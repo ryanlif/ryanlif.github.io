@@ -1,23 +1,22 @@
 [
 	{
 		"id": 5,
-		// "author": "Congjing Zhang$^\\dagger$$(\\star)$, \\textbf{Ryan F. Lin}$^\\dagger$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
 		"author": "Congjing Zhang",
 		"title": "ALARM: Automated LLM-Based Anomaly Detection in SmaRt-Home Monitoring with Uncertainty Quantification",
 		"conference": "INFORMS Journal on Data Science",
 		"links": [
-			// {
-			// 	"name": "pdf",
-			// 	"url": ""
-			// },
-			// {
-			// 	"name": "slides",
-			// 	"url": ""
-			// },
-			// {
-			// 	"name": "video",
-			// 	"url": ""
-			// }
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			},
+			{
+				"name": "video",
+				"url": ""
+			}
 		]
 	},
 
