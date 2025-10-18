@@ -47,12 +47,12 @@
 			    }
 		    ]
     },
-    
+
     {
         "title": "DARPA: Context-Aware Biomarker Discovery and Health Monitoring by Adaptive Integration of Heterogeneous Smartphone Signals",
         "description": "This project aims to discover biomarkers in different contexts and understand user activities based on data collected from various sensors with an healthcare monitoring app.",
         "img": "/images/projects/sensor.png",
-        "links": ""
+        "links": []
     }
 
 ]
