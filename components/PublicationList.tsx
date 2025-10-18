@@ -4,6 +4,16 @@ import datb from './data/pubconf.json'
 import datc from './data/pubworking.json'
 
 const PublicationList = (): JSX.Element => {
+    useEffect(() => {
+            // When MathJax is loaded and this component renders, typeset LaTeX
+            const render = () => {
+            if (window.MathJax && ref.current) {
+                    window.MathJax.typesetPromise([ref.current]).catch((err: any) => console.error('MathJax render error:', err));
+                }
+            };
+            setTimeout(render, 200);
+        }, []);
+    
     return (
         <section className="grid w-full" id="publication">
             {/* <div>
