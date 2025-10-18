@@ -17,8 +17,8 @@ const PublicationList = (): JSX.Element => {
         <section className="grid w-full" id="publication">
             <div>
               <p>In the list below, I indiciate with:</p>
-              <p>$\dagger$ &nbsp;&nbsp; equal contribution</p>
-              <p>$(\star)$ &nbsp;&nbsp; graduate students I mentor as co-authors</p>
+              $\dagger$ &nbsp;&nbsp; equal contribution
+              $(\star)$ &nbsp;&nbsp; graduate students I mentor as co-authors
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Refereed Journal Paper</h2>
             <div>
