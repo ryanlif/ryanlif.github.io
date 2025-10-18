@@ -10,8 +10,8 @@ const About = (): JSX.Element => {
 			<div className="flex justify-between">
 				<div className="mr-8 hidden md:block rounded-md">
 					<ProfileImage></ProfileImage>
-					<p className="text-base mt-4 font-bold dark:text-gray-100 hover:underline">Email: </p><a href={`mailto:${personalInfo.about.email}`} className="text-sm">{personalInfo.about.email}</a>
-					<br/> <p className="text-base mt-4 font-bold dark:text-gray-100 hover:underline">Phone: </p><p>+1 (206)-321-8275</p>
+					<span className="text-base mt-4 font-bold dark:text-gray-100 hover:underline">Email:</span> <a href={`mailto:${personalInfo.about.email}`} className="text-base dark: text-gray-300">{personalInfo.about.email}</a> 
+					<br/> <span className="text-base mt-4 font-bold dark:text-gray-100 hover:underline">Phone: </span><p className="text-base dark: text-gray-300">+1 (206)-321-8275</p>
 				</div>
 				<div className="flex flex-col max-w-xl w-full justify-evenly">
 					<h1 className="text-4xl font-bold pb-8 md:pb-0">{personalInfo.name}</h1>
@@ -19,7 +19,7 @@ const About = (): JSX.Element => {
 						I am currently a PhD candidate in the Department of <ExtLink href= {personalInfo.about.department.link}>{personalInfo.about.department.name} </ExtLink>
 						at <ExtLink href= {personalInfo.about.college.link}>{personalInfo.about.college.name} </ExtLink> 
 						advised by Dr. <ExtLink href={personalInfo.about.advisor.link}> {personalInfo.about.advisor.name}</ExtLink>. 
-						Prior to starting my journey at UW, I received my B.S. degree in Statistics (double degree in Computer Science) 
+						Prior to this, I received my B.S. degree in Statistics (double degree in Computer Science) 
 						and M.S. degree in Computer Science from the University of Science and Technology of China in 2007.  
 						 <br/>
 					</p>
