@@ -25,8 +25,19 @@ const App = ({Component, pageProps}: Readonly<AppProps>): JSX.Element => {
 				<meta property="og:locale" content="en_US"/>
 				<meta property="og:type" content="website"/>
 			</Head>
+			<Script id="mathjax-config" strategy="beforeInteractive">
+				{`
+					window.MathJax = {
+  						tex: {
+    						inlineMath: [['$', '$'], ['\\\\(', '\\\\)']],
+    						displayMath: [['$$', '$$'], ['\\\\[', '\\\\]']]
+  						},
+  						svg: { fontCache: 'global' }
+					};
+				`}
+			</Script>
 			<Script
-				id="mathjax-cdn"
+				id="mathjax"
 				strategy="afterInteractive"
 				src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 			/>
