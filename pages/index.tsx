@@ -8,7 +8,7 @@ import News from '../components/News';
 const Index: NextPage<unknown> = () => (
     <>
         <About/>
-        <Research>
+        <Research/>
         <News/>
     </>
 );
