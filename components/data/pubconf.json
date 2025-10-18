@@ -13,10 +13,6 @@
 			{
 				"name": "slides",
 				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
 			}
 		]
 	},
@@ -34,10 +30,6 @@
 			},
 			{
 				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
 				"url": ""
 			}
 		]
@@ -57,10 +49,6 @@
 			{
 				"name": "slides",
 				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
 			}
 		]
 	},
@@ -79,10 +67,6 @@
 			{
 				"name": "slides",
 				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
 			}
 		]
 	},
@@ -99,10 +83,6 @@
 			},
 			{
 				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
 				"url": ""
 			}
 		]
