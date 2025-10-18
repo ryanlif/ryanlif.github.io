@@ -1,4 +1,5 @@
 import {NextPage} from 'next';
+
 import ProjectList from '../components/ProjectList';
 
 const Projects: NextPage<unknown> = () => (
