@@ -5,49 +5,45 @@
         "url": "https://github.com/ryanlif/RiskScoreModels-Evaluation/tree/main",
         "img": "/images/projects/riskscore.png",
         "links": [
-			{
-				"name": "Repository",
-				"url": "https://github.com/ryanlif/FairCL" 
-			}
-		]
+			    {
+				    "name": "Repository",
+				    "url": "https://github.com/ryanlif/FairCL" 
+			    }
+		    ]
     },
-
     {
         "title": "Fair Collaborative Learning (FairCL) for Model Personalizatio",
         "description": "This general framework is designed to reduce individual disparities in model personalization and integrate a variety of fairness concepts. We provide a self-adaptive algorithm to learn ",
         "img": "/images/projects/faircl.png",
         "links": [
-			{
-				"name": "Respository",
-				"url": "https://github.com/ryanlif/FairCL"
-			}
-		]
+			    {
+				    "name": "Respository",
+				    "url": "https://github.com/ryanlif/FairCL"
+			    }
+		    ]
     },
-
      {
         "title": "Breakthrough T1D (Formerly JDRF): A Multi-task Learning Framework for Developing Genetic Risk Score (GRS) Models of T1D for Multi-Ethnic Population",
         "description": "In this project, we develop multi-task learning methods to reduce the disparities among different ethnoracial groups for genetic risk score (GRS) models of Type-1 diabetes.",
         "img": "/images/projects/t1d.png",
         "links": [
-			{
-				"name": "Poster",
-				"url": "https://diabetesjournals.org/diabetes/article/73/Supplement_1/1462-P/155657/1462-P-Genetic-Risk-Score-for-Type-1-Diabetes"
-			}
-		]
+			    {
+				    "name": "Poster",
+				    "url": "https://diabetesjournals.org/diabetes/article/73/Supplement_1/1462-P/155657/1462-P-Genetic-Risk-Score-for-Type-1-Diabetes"
+			    }
+		    ]
     },
-
     {
         "title": "Modeling User Choice Behavior under Data Corruption with Robust LDT",
         "description": "The emergence of many new mobile Apps and usercentered systems that interact with users by offering choices with rewards. However, real-world user data is often prone to data corruptions. To handle this issue, we propose RobustLDT, a robust learning algorithm for the Latent Decision Threshold (LDT) model, together with a user screening algorithm for the detection of bad actors with teasing or anomalous behaviors.",
         "img": "/images/projects/RLDT.png",
         "links": [
-			{
-				"name": "Respository",
-				"url": "https://github.com/ryanlif/FairCL"
-			}
-		]
+			    {
+				    "name": "Respository",
+				    "url": "https://github.com/ryanlif/FairCL"
+			    }
+		    ]
     },
-
     {
         "title": "DARPA: Context-Aware Biomarker Discovery and Health Monitoring by Adaptive Integration of Heterogeneous Smartphone Signals",
         "description": "This project aims to discover biomarkers in different contexts and understand user activities based on data collected from various sensors with an healthcare monitoring app.",
