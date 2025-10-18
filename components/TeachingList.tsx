@@ -14,7 +14,7 @@ const TeachingList = (): JSX.Element => {
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Teaching Philosophy</h2>
             <div> 
-              <p>My teaching philosophy is rooted in Confucius' saying: ``When three people walk together, I am sure to find my teacher 
+              <p>My teaching philosophy is rooted in Confucius' saying: "When three people walk together, I am sure to find my teacher 
                 among them." This belief shapes my view of <b>teaching as a collaborative and reciprocal process</b> where both students 
                 and instructors learn from each other. To maximize this mutual benefit, it is necessary to embrace differences and 
                 I believe <b>teaching should be personalized</b> to accommodate students' varied academic needs, prior knowledge 
