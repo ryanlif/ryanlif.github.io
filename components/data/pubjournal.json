@@ -44,9 +44,10 @@
 
 	{
 		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "<b>Ryan F. Lin</b>, Xiaoning Qian, Bobak Mortazavi, Zhangyang Wang, Shuai Huang, and Cynthia Chen",
+		"title": "Modeling User Choice Behavior under Data Corruption: Robust Learning of the Latent Decision Threshold Model",
+		"conference": "IISE transactions",
+		"year": "2025",
 		"links": [
 			{
 				"name": "pdf",

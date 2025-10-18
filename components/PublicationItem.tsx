@@ -27,11 +27,12 @@ const PublicationItem = ({publication, index}: Props): JSX.Element => {
 
     return (
         <div className = "mt-4 mb-8">
-            <p className = "text-base text-gray-500">
-                [{index}] <span dangerouslySetInnerHTML={{ __html: publication.author }}/>{' '} <b><i>{publication.title}</i></b><br/>
-                <a className = "text-sm">{publication.conference}</a>
+            <p className = "text-base text-gray-600 dark:text-gray-100">
+                [{index}] <span dangerouslySetInnerHTML={{ __html: publication.author }}/>{', '} <b><i>{publication.title}</i></b><br/>
+                <a className = "text-sm">{publication.conference}</a>{', '}<a className="text-sm">{publication.year}</a>
+                <p className = "text-sm bold ">{publication.note}</p>
             </p>
-            <p className = "text-gray-500 flex justify-end text-sm bold">
+            <p className = "text-gray-600 dark:text-gray-200 flex justify-end text-sm bold">
                 {publication.links.map((linkItem: any, idx: any) => (
                     <ExtLink href={linkItem.url} key={idx}> [{linkItem.name}] &nbsp;</ExtLink>
                 ))}                
