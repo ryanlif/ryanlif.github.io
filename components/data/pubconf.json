@@ -2,8 +2,9 @@
 	{
 		"id": 5,
 		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
-		"title": "ALARM: Automated LLM-Based Anomaly Detection in SmaRt-Home Monitoring with Uncertainty Quantification",
-		"conference": "Under review at INFORMS Journal on Data Science",
+		"title": "ALARM: Automated LLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification",
+		"status": "Under review at ",
+		"conference": "INFORMS Journal on Data Science",
 		"links": [
 			{
 				"name": "pdf",
@@ -23,9 +24,9 @@
 	{
 		"id": 4, 
 		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Keyu Tian$^{\\dagger}$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
-
 		"title": "CrowdLLM: A Synthetic Crowd of LLM-based Decision-Makers Augmented with Generative Models",
-		"conference": "In submission to INFORMS Journal on Data Science",
+		"status": "In submission to ",
+		"conference": "INFORMS Journal on Data Science",
 		"links": [
 			{
 				"name": "pdf",
@@ -47,6 +48,7 @@
 		"author": "P.Harry, A.Dumbledor",
 		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
 		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"status": "",
 		"links": [
 			{
 				"name": "pdf",
@@ -68,6 +70,7 @@
 		"author": "P.Harry, A.Dumbledor",
 		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
 		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"status": "",
 		"links": [
 			{
 				"name": "pdf",
