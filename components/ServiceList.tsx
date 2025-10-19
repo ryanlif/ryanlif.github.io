@@ -12,7 +12,7 @@ const ServiceList = (): JSX.Element => {
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Membership</h2>
             <div>
-              <ul className="list-disc ml-6">
+              <ul className="text-base font-normal text-gray-700 dark:text-gray-200 list-disc ml-6">
                 <li>Institute for Operation Research and the Management Sciences (INFORMS)</li>
                   <ul className="list-[circle] ml-6">
                       <li>Quality, Statistics, and Reliability (QSR) Section</li>
