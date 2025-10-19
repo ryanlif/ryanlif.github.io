@@ -30,4 +30,4 @@ const ServiceList = (): JSX.Element => {
 
 
 
-export default PublicationList;
+export default ServiceList;
