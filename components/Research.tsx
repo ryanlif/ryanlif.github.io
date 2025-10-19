@@ -24,7 +24,7 @@ const Research = (): JSX.Element => {
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Research Accomplishments</h2>
             <div>
-              <p>My research is interdisciplinary and lies at the intersection of artificial intelligence (AI), statistics, and quality science, 
+              <p>My research is interdisciplinary and lies at the intersection of <b>artificial intelligence (AI)</b>, <b>statistics</b>, and <b>quality science</b>, 
                 with applications spanning healthcare, medicine, transportation, marketing, etc. I have been collaborating with researchers from 
                 both academia and industry across the United States, Europe, and Asia. I was also fortunate to work at Meta as a full-time AI 
                 researcher for one year, supported by a generous Meta AI Fellowship, and gained precious experience of cutting-edge AI research 
