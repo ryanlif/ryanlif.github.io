@@ -30,20 +30,10 @@
 
 	{
 		"id": 3,
-		"author": "<b>Ryan F. Lin</b>, Xufeng Cai, Lei Yuan, Boying Liu, Ali Selman Aydin, Ziwei Guan, Wenbo Ren, Yuting Zhang, Qunshu Zhang, Shuai Huang, Yinglong Xia, and Ji Liu",
-		"title": "Robust Contextual Optimization for Personalization",
-		"status": "",
-		"conference": "",
-		"links": [
-		]
-	},
-
-	{
-		"id": 2,
-		"author": "<b>Ryan F. Lin</b>, Xiaoning Qian, and Shuai Huang",
-		"title": "Relieving the Myopia: Bayesian Active Learning by Mean Objective Cost of Uncertainty with Confidence Ascending",
-		"status": "",
-		"conference": "",
+		"author": "Yuantao Wei$^{\\dagger}(\\star)$, \textbf{Ryan F. Lin}$^{\\dagger}$, and Shuai Huang",
+		"title": "Learning Causal Graph from Human Knowledge: A Mixture-of-Chains Framework",
+		"status": "To be submitted to ",
+		"conference": "INFORMS Journal on Data Science",
 		"note": "",
 		"links": [
 			{
@@ -62,9 +52,19 @@
 	},
 
 	{
+		"id": 2,
+		"author": "<b>Ryan F. Lin</b>, Xufeng Cai, Lei Yuan, Boying Liu, Ali Selman Aydin, Ziwei Guan, Wenbo Ren, Yuting Zhang, Qunshu Zhang, Shuai Huang, Yinglong Xia, and Ji Liu",
+		"title": "Robust Contextual Optimization for Personalization",
+		"status": "",
+		"conference": "",
+		"links": [
+		]
+	},
+
+	{
 		"id": 1,
-		"author": "Yuantao Wei$^{\\dagger}(\\star)$, \textbf{Ryan F. Lin}$^{\\dagger}$, and Shuai Huang",
-		"title": "Learning Causal Graph from Human Knowledge: A Mixture-of-Chains Framework",
+		"author": "<b>Ryan F. Lin</b>, Xiaoning Qian, and Shuai Huang",
+		"title": "Relieving the Myopia: Bayesian Active Learning by Mean Objective Cost of Uncertainty with Confidence Ascending",
 		"status": "",
 		"conference": "",
 		"note": "",
