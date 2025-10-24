@@ -2,12 +2,11 @@
     {
         "title": "Risk360: An Auto-Evaluator of Your Risk Score Model",
         "description": "This is an evaluation framework for the risk score models in healthcare. More details of this ongoing work are coming soon.",
-        "url": "https://github.com/ryanlif/RiskScoreModels-Evaluation/tree/main",
         "img": "/images/projects/riskscore.png",
         "links": [
 			    {
 				    "name": "Repository",
-				    "url": "https://github.com/ryanlif/FairCL" 
+				    "url": "https://github.com/ryanlif/RiskScoreModels-Evaluation/tree/main" 
 			    }
 		    ]
     },
