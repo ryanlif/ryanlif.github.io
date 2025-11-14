@@ -1,7 +1,7 @@
 [
 	{
 		"id": 3,
-		"author": "Congjing Zhang$^{\\dagger}(\\star)$, \textbf{Ryan F. Lin}$^{\\dagger}$, and Shuai Huang",
+		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, and Shuai Huang",
 		"title": "Team, then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation",
 		"status": "Under review at ",
 		"conference": "the 14th International Conference on Learning Representations (ICLR)",
