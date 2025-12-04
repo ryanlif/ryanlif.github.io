@@ -22,9 +22,9 @@
 		"conference": "JAMA Network Open",
 		"links": [
 			{
-				"name": "Preprint",
+				"name": "Preprint coming soon...",
 				"url": ""
-			}
+			},
 		]
 	},
 
@@ -37,17 +37,9 @@
 		"note": "",
 		"links": [
 			{
-				"name": "pdf",
+				"name": "Preprint coming soon...",
 				"url": ""
 			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
 		]
 	},
 
@@ -58,6 +50,10 @@
 		"status": "",
 		"conference": "",
 		"links": [
+			{
+				"name": "Preprint coming soon...",
+				"url": ""
+			},
 		]
 	},
 
@@ -70,17 +66,9 @@
 		"note": "",
 		"links": [
 			{
-				"name": "pdf",
+				"name": "Preprint coming soon...",
 				"url": ""
 			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
 		]
 	}
 ]
