@@ -6,7 +6,7 @@ const ServiceList = (): JSX.Element => {
             <div>
               <ul className="text-base font-normal text-gray-700 dark:text-gray-200 list-disc ml-6">
                 <li>IEEE Transactions on Automation Science and Engineering (TASE), INFORMS Journal on Data Science (JDS), IISE Transactions on Healthcare Systems Engineering, IEEE Transactions on Artificial Intelligence (TAI), Computers & Industrial Engineering, IEEE Transactions on Emerging Topics in Computing Intelligence (TETC), IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
-                <li>ISMB/ECCB 2021</li>
+                <li>ISMB/ECCB 2021, IEEE Intelligent Vehicles Symposium (IV) 2026</li>
               </ul>
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Conference Organizing Activities</h2>
