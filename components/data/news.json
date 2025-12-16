@@ -4,6 +4,10 @@
         "description": "I gave a lightning talk about our \"CrowdLLM\" paper at Amazon Scientific Exchange."
     },
     {
+        "date":"11-10-2025",
+        "description": "Our research was highlighted by UW Engineering at https://www.engr.washington.edu/news/article/2025-11-10/detecting-diabetes-earlier"
+    },
+    {
         "date": "10-28-2025",
         "description": "I gave a talk \"Learning to Collect: a Two-Stage Data Collection Framework for Data-Efficient Personalization\" at INFORMS 2025."
     },
