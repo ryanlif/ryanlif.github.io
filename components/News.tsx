@@ -1,3 +1,4 @@
+import ExtLink from './ExtLink';
 import data from './data/news.json'
 
 
