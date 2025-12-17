@@ -5,11 +5,11 @@
     },
     {
         "date": "11-10-2025",
-        "description": "Our research was highlighted by UW College of Engineering News.",
-        "link": { 
-            "text": "UW College of Engineering News",
-            "url": "https://www.engr.washington.edu/news/article/2025-11-10/detecting-diabetes-earlier"
-         }
+        "description": "Our research was highlighted by UW College of Engineering News."
+        "insrt":{
+            "name": "News",
+            "link": "https://www.engr.washington.edu/news/article/2025-11-10/detecting-diabetes-earlier"
+        }
     },
     {
         "date": "10-28-2025",
