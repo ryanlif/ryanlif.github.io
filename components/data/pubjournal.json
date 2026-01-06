@@ -3,7 +3,7 @@
 		"id": 4,
 		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
 		"title": "ALARM: <u>A</u>utomated <u>L</u>LM-Based <u>A</u>nomaly Detection in Complex-Envi<u>R</u>onment <u>M</u>onitoring with Uncertainty Quantification",
-		"status": "Major revision at ",
+		"status": "In major revision at ",
 		"conference": "INFORMS Journal on Data Science",
 		"year": "",
 		"links": [
@@ -19,7 +19,7 @@
 		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Keyu Tian$^{\\dagger}$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
 		"title": "CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models",
 		"conference": "INFORMS Journal on Data Science",
-		"status": "Under review at ",
+		"status": "In major revision at ",
 		"year": "",
 		"note": "Runner-up of the 2025 INFORMS QSR best paper competition",
 		"links": [
