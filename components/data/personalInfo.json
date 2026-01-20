@@ -28,15 +28,15 @@
             "application": "Healthcare and Medicine, Transportation, Marketing"
         },
         "bsdeg": {
-            "name": "Statistics"  
+            "name": "Statistics",  
             "link": "https://en.business.ustc.edu.cn/main.htm"
         },
         "msdeg": {
-            "name": "Computer Science"  
+            "name": "Computer Science",  
             "link": "https://en.cs.ustc.edu.cn/main.htm"
         },
         "mluniversity": {
-            "name": "University of Science and Technology of China (USTC)"  
+            "name": "University of Science and Technology of China (USTC)",  
             "link": "https://en.ustc.edu.cn"
         }    
     },
