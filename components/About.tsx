@@ -19,7 +19,7 @@ const About = (): JSX.Element => {
 						I am currently a PhD candidate in the Department of <ExtLink href= {personalInfo.about.department.link}>{personalInfo.about.department.name} </ExtLink>
 						at <ExtLink href= {personalInfo.about.college.link}>{personalInfo.about.college.name} </ExtLink> 
 						advised by Dr. <ExtLink href={personalInfo.about.advisor.link}> {personalInfo.about.advisor.name}</ExtLink>. 
-						Prior to this, I received my B.S. degree in Statistics and M.S. degree in Computer Science from the University of Science and Technology of China (USTC) in 2020.  
+						Prior to this, I received my B.S. degree in Statistics and M.S. degree in Computer Science from the University of Science and Technology of China (USTC).  
 						 <br/>
 					</p>
 					<p className = "text-xl font-bold text-gray-600 dark:text-gray-200"> Research Interest: </p>
