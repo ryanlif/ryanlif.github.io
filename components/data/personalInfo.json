@@ -26,8 +26,19 @@
         "interest": {
             "methodology": "Machine Learning and Artificial Intelligence, Uncertainty Quantification, Optimal Experimental Design",
             "application": "Healthcare and Medicine, Transportation, Marketing"
-        }
-
+        },
+        "bsdeg": {
+            "name": "Statistics"  
+            "link": "https://en.business.ustc.edu.cn/main.htm"
+        },
+        "msdeg": {
+            "name": "Computer Science"  
+            "link": "https://en.cs.ustc.edu.cn/main.htm"
+        },
+        "mluniversity": {
+            "name": "University of Science and Technology of China (USTC)"  
+            "link": "https://en.ustc.edu.cn"
+        }    
     },
     "love": "",
     "education": [
