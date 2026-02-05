@@ -1,5 +1,20 @@
 [
 	{
+		"id": 4,
+		"author": "<b>Ryan F. Lin</b>^{\\dagger}$, Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao, Xiaoning Qian, and Shuai Huang",
+		"title": "Causal Learning Should Embrace the Wisdom of the Crowd",
+		"status": "Under review",
+		"conference": "",
+		"year": "",
+		"note": "",
+		"links": [
+			{
+				"name": "Preprint",
+				"url": "https://www.arxiv.org/abs/2602.04785"
+			}
+		]
+	},
+	{
 		"id": 3,
 		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, and Shuai Huang",
 		"title": "Team, then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation",
