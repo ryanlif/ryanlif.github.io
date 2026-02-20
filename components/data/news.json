@@ -1,11 +1,15 @@
 [   
     {
+        "date": "02-13-2026",
+        "description": "Our paper \"A Rawlsian Mixed Integer Programming Approach for Fair Classification\" was accepted by INFORMS Optimization Society Coference 2026."
+    },
+    {
         "date": "01-24-2026",
         "description": "Our ALARM paper was accepted by INFORMS Journal on Data Science."
     },
     {
         "date": "01-13-2025",
-        "description": "Our paper \"Guiding Generative Recommenders with Structured Human Priors via Multi-Head Decoding\" was accepted by WWW (The Web Conf) 2026."
+        "description": "Our paper \"Guiding Generative Recommenders with Structured Human Priors via Multi-Head Decoding\" was accepted by WWW (The ACM Web Conf) 2026."
     },
     {
         "date": "11-13-2025",
