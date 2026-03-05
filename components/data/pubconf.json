@@ -1,6 +1,6 @@
 [
 	{
-		"id": 4,
+		"id": 5,
 		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao, Xiaoning Qian, and Shuai Huang",
 		"title": "Causal Learning Should Embrace the Wisdom of the Crowd",
 		"status": "Under review",
@@ -15,7 +15,7 @@
 		]
 	},
 	{
-		"id": 3,
+		"id": 4,
 		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, and Shuai Huang",
 		"title": "Team, then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation",
 		"status": "Under review",
