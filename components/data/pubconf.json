@@ -48,7 +48,7 @@
 	{
 		"id": 2, 
 		"author": "Yunkai Zhang, Qiang Zhang, Diji Yang, <b>Ryan F. Lin</b>, Ruizhong Qiu, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, and Zeyu Zheng",
-		"title": "Enhancing Generative Recommender Systems via Structured Human Priors with Multi-head Decoding",
+		"title": "Guiding Generative Recommender Systems via Structured Human Priors with Multi-head Decoding",
 		"status": "Accepted by ",
 		"conference": "the ACM Web Conference (WWW) 2026",
 		"year": "2026",
