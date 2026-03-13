@@ -1,4 +1,8 @@
 [   
+     {
+        "date": "02-13-2026",
+        "description": "Our paper was selected as a finalist of the IISE DAIS Best Student Paper Competition 2026."
+    },
     {
         "date": "02-13-2026",
         "description": "Our paper \"A Rawlsian Mixed Integer Programming Approach for Fair Classification\" was accepted by the refereed proceedings of the INFORMS Optimization Society Coference 2026."
@@ -45,7 +49,7 @@
     },
     {
         "date": "09-12-2025",
-        "description": "Our CrowdLLM paper was selected as the finalist of the INFORMS QSR best paper competition. Congratulations!"
+        "description": "Our CrowdLLM paper was selected as a finalist of the INFORMS QSR best paper competition. Congratulations!"
     },
     {
         "date": "09-06-2025",
@@ -75,6 +79,6 @@
     },
     {
         "date": "09-15-2023",
-        "description": "Our FairCL paper was selected as the finalist of INFORMS QSR best paper competition. Congratulations!"
+        "description": "Our FairCL paper was selected as a finalist of INFORMS QSR best paper competition. Congratulations!"
     }
 ]
