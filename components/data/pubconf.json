@@ -16,7 +16,7 @@
 	},
 	{
 		"id": 6,
-		"author": "Congjing Zhang, Ryan Feng Lin, Noelle So, Meera Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, and Shuai Huang",
+		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Noelle So, Meera Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, and Shuai Huang",
 		"title": "LIFT: Agentic LLMs for Lifecycle-Based Workflow Testing in Healthcare Risk Prediction",
 		"status": "Under review",
 		"conference": "",
