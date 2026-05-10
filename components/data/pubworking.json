@@ -1,6 +1,6 @@
 [
 	{
-		"id": 5,
+		"id": 3,
 		"author": "<b>Ryan F. Lin</b>, Ji Liu, and Shuai Huang",
 		"title": "Learning to Collect: A Two-Stage Data Collection Framework for Data-Efficient Personalization",
 		"status": "In submission to ",
@@ -8,36 +8,6 @@
 		"links": [
 			{
 				"name": "Preprint",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 4, 
-		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Congjing Zhang$^{\\dagger}(\\star)$,  Kendra Vehik, Hemang Parikh, Mingqian Li, Richard Oram, Xiaoning Qian, and Shuai Huang",
-
-		"title": "Benchmarking Fairness of Genetic Risk Score Models for Early-stage Prediction of Type 1 Diabetes from the TEDDY study",
-		"status": "To be submitted to ",
-		"conference": "JAMA Network Open",
-		"links": [
-			{
-				"name": "Preprint coming soon...",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 3,
-		"author": "Yuantao Wei$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, and Shuai Huang",
-		"title": "Learning Causal Graph from Human Knowledge: A Mixture-of-Chains Framework",
-		"status": "To be submitted to ",
-		"conference": "Journal of Machine Learning Research",
-		"note": "",
-		"links": [
-			{
-				"name": "Preprint coming soon...",
 				"url": ""
 			}
 		]
