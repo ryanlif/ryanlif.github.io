@@ -1,4 +1,35 @@
-[
+[	
+	{
+		"id": 7,
+		"author": "Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao$^{\\dagger}$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xiaoning Qian, and Shuai Huang",
+		"title": "Mixture-of-Chains: Learning Causal Graphs from Human Knowledged",
+		"status": "Under review",
+		"conference": "",
+		"year": "",
+		"note": "",
+		"links": [
+			{
+				"name": "Preprint",
+				"url": ""
+			}
+		]
+	},
+	{
+		"id": 6,
+		"author": "Congjing Zhang, Ryan Feng Lin, Noelle So, Meera Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, and Shuai Huang",
+		"title": "LIFT: Agentic LLMs for Lifecycle-Based Workflow Testing in Healthcare Risk Prediction",
+		"status": "Under review",
+		"conference": "",
+		"year": "",
+		"note": "",
+		"links": [
+			{
+				"name": "Preprint",
+				"url": ""
+			}
+		]
+	},
+	
 	{
 		"id": 5,
 		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao, Xiaoning Qian, and Shuai Huang",
