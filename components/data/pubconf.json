@@ -64,8 +64,8 @@
 		"id": 3,
 		"author": "William Yang, <b>Ryan F. Lin</b>, Chaoyue Zhao, and Shuai Huang",
 		"title": "A Rawlsian Mixed Integer Programming Approach for Fair Classification",
-		"status": "Accepted by ",
-		"conference": "Proceedings of the INFORMS Optimization Society Conference 2026",
+		"status": "In Proc. of",
+		"conference": "the INFORMS Optimization Society Conference 2026",
 		"year": "",
 		"note": "",
 		"links": [
@@ -80,14 +80,14 @@
 		"id": 2, 
 		"author": "Yunkai Zhang, Qiang Zhang, Diji Yang, <b>Ryan F. Lin</b>, Ruizhong Qiu, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, and Zeyu Zheng",
 		"title": "Guiding Generative Recommender Systems via Structured Human Priors with Multi-head Decoding",
-		"status": "Accepted by ",
+		"status": "In Proc. of",
 		"conference": "the ACM Web Conference (WWW) 2026",
 		"year": "2026",
 		"note": "Acceptance rate <u>$20.1\\%$</u> in the year of submission.",
 		"links": [
 			{
-				"name": "Preprint",
-				"url": "https://arxiv.org/abs/2511.10492"
+				"name": "Paper",
+				"url": "https://dl.acm.org/doi/10.1145/3774904.3792100"
 			}
 		]
 	},
