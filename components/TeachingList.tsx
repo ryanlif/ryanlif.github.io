@@ -12,7 +12,13 @@ const TeachingList = (): JSX.Element => {
               supported, and experience a profound sense of meaning and belonging. Together, we explore, use, and reflect on 
               advanced technologies in a friendly, collaborative environment to improve quality of life and make a meaningful impact on society.</p>
             </div>
-            <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught</h2>
+            {/* <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught</h2>
+            <div> 
+              {data.map((teaching, index) => (
+                <TeachingItemNew teaching={teaching} index={index} key={index}/>
+              ))}
+            </div> */}
+            <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught at University of Washington</h2>
             <div> 
               {data.map((teaching, index) => (
                 <TeachingItem teaching={teaching} index={index} key={index}/>
