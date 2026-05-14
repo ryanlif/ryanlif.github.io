@@ -8,7 +8,7 @@ interface Props {
 const TeachingItem = ({teaching, index}: Props): JSX.Element => {
     const mainTextClass = teaching.active
         ? 'text-black dark:text-white'
-        : 'text-gray-700 dark:text-gray-300';
+        : 'text-gray-600 dark:text-gray-400';
     
     const subTextClass = teaching.active
         ? 'text-gray-900 dark:text-gray-50'
