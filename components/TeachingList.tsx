@@ -23,7 +23,10 @@ const TeachingList = (): JSX.Element => {
             <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught at University of Washington</h2>
             <div> 
               {data.map((teaching, index) => (
-                <TeachingItem teaching={teaching} index={index} key={index}/>
+                <div key={index}>
+                    <TeachingItem teaching={teaching} index={index} key={index}/>
+                    {index === 0 && (<hr className="my-6 border-gray-300 dark:border-gray-700"/>)}
+                </div>
               ))}
             </div>
 
