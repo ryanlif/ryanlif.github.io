@@ -18,7 +18,7 @@ const TeachingItem = ({teaching, index}: Props): JSX.Element => {
             <p className={`text-base ${mainTextClass}`}>
                 [{index}] {teaching.course} &nbsp;&nbsp;&nbsp;<b>{teaching.responsibility}</b><br/>
             </p>
-            <p className={`text-base ${subTextClass}`}><i>{teaching.period}</i></p>
+            <p className={`text-base ${mainTextClass}`}><i>{teaching.period}</i></p>
             <p className={`text-base ${subTextClass}`}>{teaching.description}</p>
             <p className={`text-base ${subTextClass} flex justify-end bold`}>
                 {teaching.links.map((linkItem: any, idx: any) => (
