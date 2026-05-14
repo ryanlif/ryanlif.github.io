@@ -3,7 +3,8 @@
         "id": "IND E 315",
         "course": "Probability And Statistics For Engineers",
         "responsibility": "Instructor",
-		"period": "Autumn 2025",
+		"period": "Summer 2026",
+		"active": true,
         "description": "Application of probability theory and statistics to engineering problems, distribution theory and discussion of particular distributions of interest in engineering, statistical estimation and data analysis. Illustrative statistical applications may include quality control, linear regression, and analysis of engineering data sets.",
         "links": [
 			{
@@ -26,6 +27,7 @@
         "course": "Data Analytics for Systems Engineering",
         "responsibility": "Teaching Assistant",
 		"period": "Autumn 2025",
+		"active": false,
         "description": "Emphasizes data-driven system modeling, including basic statistical learning models, and system modeling and decision-making. Covers experimental design for data collection, tree-based control charts for process monitoring, rule-based decision-making, and diagnosis of root causes as learning problems. Students develop connections between emerging statistical learning techniques with system modeling and optimization methods. ",
         "links": [
 			{
@@ -48,6 +50,7 @@
         "course": "Integer and Dynamic Programming",
         "responsibility": "Instructor",
 		"period": "Spring 2024",
+		"active": false,
         "description": "Modeling and optimization of problems and dynamic programming approach to optimization. Topics include: integer programming formulation techniques, linear and Lagrangian relaxation, branch-and-bound and cutting-plane methods, integer programming applications, and dynamic programming. ",
         "links": [
 			{
@@ -70,6 +73,7 @@
         "course": "Linear and Network Programming",
         "responsibility": "Teaching Assistant",
 		"period": "Autumn 2023",
+		"active": false,
         "description": "Modeling and optimization of linear network problems. Topics include optimization of linear systems, mathematical model design, simplex method, primal-dual algorithms, parametric programming, goal programming, network problems and algorithms.",
         "links": [
 			{

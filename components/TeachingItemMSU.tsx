@@ -5,7 +5,7 @@ interface Props {
     index: number;
 }
 
-const TeachingItem = ({teaching, index}: Props): JSX.Element => {
+const TeachingItemMSU = ({teaching, index}: Props): JSX.Element => {
     const mainTextClass = teaching.active
         ? 'text-black dark:text-white'
         : 'text-gray-700 dark:text-gray-100';
@@ -13,6 +13,7 @@ const TeachingItem = ({teaching, index}: Props): JSX.Element => {
     const subTextClass = teaching.active
         ? 'text-gray-900 dark:text-gray-50'
         : 'text-gray-700 dark:text-gray-300';
+
     return (
         <div className = "mt-4 mb-8">
             <p className={`text-base ${mainTextClass}`}>
@@ -31,4 +32,4 @@ const TeachingItem = ({teaching, index}: Props): JSX.Element => {
     );
 };
 
-export default TeachingItem;
+export default TeachingItemMSU;
