@@ -8,11 +8,11 @@ interface Props {
 const TeachingItem = ({teaching, index}: Props): JSX.Element => {
     const mainTextClass = teaching.active
         ? 'text-black dark:text-white'
-        : 'text-gray-300 dark:text-gray-600';
+        : 'text-gray-300 dark:text-gray-700';
     
     const subTextClass = teaching.active
         ? 'text-gray-900 dark:text-gray-50'
-        : 'text-gray-100 dark:text-gray-900';
+        : 'text-gray-200 dark:text-gray-800';
     return (
         <div className = "mt-4 mb-8">
             <p className={`text-base ${mainTextClass}`}>
