@@ -2,7 +2,7 @@
 	{
         "id": "IND E 315",
         "course": "Probability And Statistics For Engineers",
-        "responsibility": "Instructor",
+        "responsibility": "",
 		"period": "Summer 2026",
 		"active": true,
         "description": "Application of probability theory and statistics to engineering problems, distribution theory and discussion of particular distributions of interest in engineering, statistical estimation and data analysis. Illustrative statistical applications may include quality control, linear regression, and analysis of engineering data sets.",
@@ -48,7 +48,7 @@
 	{
         "id": "IND E 412",
         "course": "Integer and Dynamic Programming",
-        "responsibility": "Instructor",
+        "responsibility": "",
 		"period": "Spring 2024",
 		"active": false,
         "description": "Modeling and optimization of problems and dynamic programming approach to optimization. Topics include: integer programming formulation techniques, linear and Lagrangian relaxation, branch-and-bound and cutting-plane methods, integer programming applications, and dynamic programming. ",
@@ -71,7 +71,7 @@
     {
         "id": "IND E 310",
         "course": "Linear and Network Programming",
-        "responsibility": "Teaching Assistant",
+        "responsibility": "",
 		"period": "Autumn 2023",
 		"active": false,
         "description": "Modeling and optimization of linear network problems. Topics include optimization of linear systems, mathematical model design, simplex method, primal-dual algorithms, parametric programming, goal programming, network problems and algorithms.",
