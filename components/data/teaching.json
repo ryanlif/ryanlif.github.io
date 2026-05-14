@@ -71,7 +71,7 @@
     {
         "id": "IND E 310",
         "course": "Linear and Network Programming",
-        "responsibility": "",
+        "responsibility": "Teaching Assistant",
 		"period": "Autumn 2023",
 		"active": false,
         "description": "Modeling and optimization of linear network problems. Topics include optimization of linear systems, mathematical model design, simplex method, primal-dual algorithms, parametric programming, goal programming, network problems and algorithms.",
