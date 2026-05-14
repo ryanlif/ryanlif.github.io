@@ -25,7 +25,15 @@ const TeachingList = (): JSX.Element => {
               {data.map((teaching, index) => (
                 <div key={index}>
                     <TeachingItem teaching={teaching} index={index} key={index}/>
-                    {index === 0 && (<hr className="my-6 border-gray-300 dark:border-gray-700"/>)}
+                    {index === 0 && (
+                        <div className="my-6 flex items-center gap-3">
+                        <div className="h-px flex-1 bg-gray-300 dark:bg-gray-700"></div>
+                        <span className="text-sm font-medium text-gray-500 dark:text-gray-400">
+                          Past Courses
+                        </span>
+                        <div className="h-px flex-1 bg-gray-300 dark:bg-gray-700"></div>
+                      </div>
+                    )}
                 </div>
               ))}
             </div>
