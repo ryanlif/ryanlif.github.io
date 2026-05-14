@@ -8,16 +8,16 @@ interface Props {
 const TeachingItemMSU = ({teaching, index}: Props): JSX.Element => {
     const mainTextClass = teaching.active
         ? 'text-black dark:text-white'
-        : 'text-gray-300 dark:text-gray-700';
-
+        : 'text-gray-400 dark:text-gray-600';
+    
     const subTextClass = teaching.active
         ? 'text-gray-900 dark:text-gray-50'
-        : 'text-gray-250 dark:text-gray-750';
+        : 'text-gray-400 dark:text-gray-600';
 
     return (
         <div className = "mt-4 mb-8">
             <p className={`text-base ${mainTextClass}`}>
-                [{index}] {teaching.course} &nbsp;&nbsp;&nbsp;<b>{teaching.responsibility}</b><br/>
+                [{index}] <b>{teaching.course}</b> &nbsp;&nbsp;&nbsp;{teaching.responsibility}<br/>
             </p>
             <p className={`text-base ${mainTextClass}`}><i>{teaching.period}</i></p>
             <p className={`text-base ${subTextClass}`}>{teaching.description}</p>
