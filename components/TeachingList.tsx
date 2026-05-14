@@ -15,11 +15,11 @@ const TeachingList = (): JSX.Element => {
               advanced technologies in a friendly, collaborative environment to improve quality of life and make a meaningful impact on society.</p>
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught at Mississippi State University</h2>
-            <div> 
+            {/* <div> 
               {datam.map((teaching, index) => (
                 <TeachingItemMSU teaching={teaching} index={index} key={index}/>
               ))}
-            </div>
+            </div> */}
             <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught at University of Washington</h2>
             <div> 
               {data.map((teaching, index) => (
