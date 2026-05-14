@@ -12,7 +12,7 @@ const TeachingItemMSU = ({teaching, index}: Props): JSX.Element => {
 
     const subTextClass = teaching.active
         ? 'text-gray-900 dark:text-gray-50'
-        : 'text-gray-100 dark:text-gray-900';
+        : 'text-gray-150 dark:text-gray-850';
 
     return (
         <div className = "mt-4 mb-8">
