@@ -28,7 +28,7 @@ const TeachingList = (): JSX.Element => {
                     {index === 0 && (
                         <div className="my-6 flex items-center gap-3">
                         <div className="h-px flex-1 bg-gray-300 dark:bg-gray-700"></div>
-                        <span className="text-lg font-medium text-gray-500 dark:text-gray-400">
+                        <span className="text-lg font-medium text-gray-400 dark:text-gray-600">
                           Past Courses
                         </span>
                         <div className="h-px flex-1 bg-gray-300 dark:bg-gray-700"></div>
