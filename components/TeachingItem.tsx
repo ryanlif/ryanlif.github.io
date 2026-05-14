@@ -16,7 +16,7 @@ const TeachingItem = ({teaching, index}: Props): JSX.Element => {
     return (
         <div className = "mt-4 mb-8">
             <p className={`text-base ${mainTextClass}`}>
-                [{index}] <b>{teaching.course}</b> &nbsp;&nbsp;&nbsp;{teaching.responsibility}<br/>
+                [{teaching.id}] <b>{teaching.course}</b> &nbsp;&nbsp;&nbsp;{teaching.responsibility}<br/>
             </p>
             <p className={`text-base ${mainTextClass}`}><i>{teaching.period}</i></p>
             <p className={`text-base ${subTextClass}`}>{teaching.description}</p>
