@@ -12,21 +12,21 @@ const News = (): JSX.Element => {
                   ))}
                 </ul> */}
                 <ul className="list-disc">
-                    {data.slice(0, 10).map((updateInfo, index) => (
+                    {data.slice(0, 8).map((updateInfo, index) => (
                         <li key={index}>
                         <span className="dark:text-white"><b>{updateInfo.date}:</b></span> {updateInfo.description}
                         </li>
                     ))}
                 </ul>
 
-                {data.length > 10 && (
+                {data.length > 8 && (
                     <details className="mt-4">
                     <summary className="cursor-pointer text-base font-medium text-gray-500 dark:text-gray-400">
                             Old News
                     </summary>
 
                     <ul className="list-disc mt-3">
-                    {data.slice(10).map((updateInfo, index) => (
+                    {data.slice(8).map((updateInfo, index) => (
                         <li key={index}>
                         <span className="dark:text-white"><b>{updateInfo.date}:</b></span> {updateInfo.description}
                         </li>
