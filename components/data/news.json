@@ -1,5 +1,9 @@
 [   
     {
+        "date": "06-11-2026",
+        "description": "I have successfully passed my Ph.D. dissertation defense. Congratulations, Dr. Lin!"
+    },
+    {
         "date": "03-30-2026",
         "description": "Our CrowdLLM paper was accepted by INFORMS Journal on Data Science."
     },
