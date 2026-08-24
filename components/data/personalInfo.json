@@ -18,6 +18,14 @@
             "name": "University of Washington",
             "link": "https://www.washington.edu/"
         },
+        "phddepartment": {
+            "name": "Industrial and Systems Engineering",
+            "link": "https://ise.washington.edu/"
+        },
+        "phdcollege": {
+            "name": "University of Washington",
+            "link": "https://www.washington.edu/"
+        },
         "advisor": {
             "name": "Shuai Huang",
             "link": "https://www.shuaihuang.info/"
