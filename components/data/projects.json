@@ -12,12 +12,12 @@
     },
 
     {
-        "title": "Fair Collaborative Learning (FairCL) for Model Personalizatio",
+        "title": "Fair Collaborative Learning (FairCL) for Model Personalization",
         "description": "This general framework is designed to reduce individual disparities in model personalization and integrate a variety of fairness concepts. We provide a self-adaptive algorithm to learn ",
         "img": "/images/projects/faircl.png",
         "links": [
 			    {
-				    "name": "Respository",
+				    "name": "Repository",
 				    "url": "https://github.com/ryanlif/FairCL"
 			    }
 		    ]
@@ -41,8 +41,8 @@
         "img": "/images/projects/RLDT.png",
         "links": [
 			    {
-				    "name": "Respository",
-				    "url": "https://github.com/ryanlif/FairCL"
+				    "name": "Repository",
+				    "url": "https://github.com/ryanlif/R-LDT"
 			    }
 		    ]
     },
