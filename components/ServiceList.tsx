@@ -25,12 +25,14 @@ const ServiceList = (): JSX.Element => {
             <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-accent dark:after:bg-accent-glow dark:after:shadow-glow">Membership</h2>
             <div>
               <ul className="text-base font-normal text-gray-700 dark:text-gray-200 list-disc ml-6 marker:text-highlight dark:marker:text-highlight-glow">
-                <li>Institute for Operations Research and the Management Sciences (INFORMS)</li>
-                  <ul className="list-[circle] ml-6">
-                      <li>Quality, Statistics, and Reliability (QSR) Section</li>
-                      <li>Data Mining (DM) Society</li>
-                      <li>Health Applications Society</li>
+                <li>Institute for Operations Research and the Management Sciences (INFORMS)
+                  {/* Hollow circles drawn with a thicker cyan ring; the browser's built-in hollow bullet is a hairline that looked almost white. */}
+                  <ul className="list-none ml-3">
+                      {['Quality, Statistics, and Reliability (QSR) Section', 'Data Mining (DM) Society', 'Health Applications Society'].map((item) => (
+                          <li key={item} className="relative pl-4 before:absolute before:left-0 before:top-[0.6em] before:w-[7px] before:h-[7px] before:rounded-full before:border-[1.5px] before:border-highlight dark:before:border-highlight-glow">{item}</li>
+                      ))}
                   </ul>
+                </li>
                 <li>Institute of Industrial and Systems Engineers (IISE)</li>
                 <li>Institute of Electrical and Electronics Engineers (IEEE)</li>
                 <li>American Statistical Association (ASA) </li>
