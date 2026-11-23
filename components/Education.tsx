@@ -4,7 +4,7 @@ import data from './data/personalInfo.json'
 const Education = (): JSX.Element => {
     return (
         <section className="grid" id="education">
-            <h2 className="text-xl font-bold mt-12 mb-4">Education</h2>
+            <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-[#a70e1b] dark:after:bg-[#ef4444]">Education</h2>
             <p className = "text-base ml-4 text-gray-300">
                 🐸 &nbsp;was at &nbsp;
                 {

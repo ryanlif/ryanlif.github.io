@@ -26,19 +26,19 @@ const PublicationList = (): JSX.Element => {
               $\dagger$ &nbsp;&nbsp; equal contribution
               <br />$(\star)$ &nbsp;&nbsp; students I mentor as co-authors
             </div>
-            <h2 className="text-xl font-bold mt-12 mb-4">Refereed Journal Paper</h2>
+            <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-[#a70e1b] dark:after:bg-[#ef4444]">Refereed Journal Paper</h2>
             <div>
               {data.map((publication, index) => (
                 <PublicationItem publication={publication} index={index} key={index}/>
               ))}
             </div>
-            <h2 className="text-xl font-bold mt-12 mb-4">Peer-Reviewed Conference Papers</h2>
+            <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-[#a70e1b] dark:after:bg-[#ef4444]">Peer-Reviewed Conference Papers</h2>
             <div>
               {datb.map((publication, index) => (
                 <PublicationItem publication={publication} index={index} key={index}/>
               ))}
             </div>
-            <h2 className="text-xl font-bold mt-12 mb-4">Working Papers<span className="text-base text-lg text-gray-500 dark:text-gray-300"><i>&nbsp;&nbsp;(Full preprints coming soon.)</i></span></h2>
+            <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-[#a70e1b] dark:after:bg-[#ef4444]">Working Papers<span className="text-base text-lg text-gray-500 dark:text-gray-300"><i>&nbsp;&nbsp;(Full preprints coming soon.)</i></span></h2>
             <div>
               {datc.map((publication, index) => (
                 <PublicationItem publication={publication} index={index} key={index}/>
