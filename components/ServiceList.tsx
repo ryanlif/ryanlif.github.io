@@ -5,8 +5,8 @@ const ServiceList = (): JSX.Element => {
             <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-accent dark:after:bg-accent-glow dark:after:shadow-glow">Journal and Conference Reviewers</h2>
             <div>
               <ul className="text-base font-normal text-gray-700 dark:text-gray-200 list-disc ml-6 marker:text-highlight dark:marker:text-highlight-glow">
-                <li>INFORMS Journal on Data Science (IJDS), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Automation Science and Engineering (TASE), IISE Transactions, IISE Transactions on Healthcare Systems Engineering, IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Emerging Topics in Computing (TETC), Computers & Industrial Engineering</li>
-                <li>ISMB/ECCB 2021, IEEE Intelligent Vehicles Symposium (IV) 2026, NeurIPS 2026, INFORMS Workshop on Data Mining and Decision Analytics 2026</li>
+                <li><span className="font-bold">Journal:</span> INFORMS Journal on Data Science (IJDS), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Automation Science and Engineering (TASE), IISE Transactions, IISE Transactions on Healthcare Systems Engineering, IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Emerging Topics in Computing (TETC), Computers & Industrial Engineering</li>
+                <li><span className="font-bold">Conference:</span> ISMB/ECCB 2021, IEEE Intelligent Vehicles Symposium (IV) 2026, NeurIPS 2026, INFORMS Workshop on Data Mining and Decision Analytics 2026</li>
               </ul>
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-accent dark:after:bg-accent-glow dark:after:shadow-glow">Conference Organizing Activities</h2>
