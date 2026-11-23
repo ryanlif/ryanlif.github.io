@@ -5,8 +5,8 @@ const ServiceList = (): JSX.Element => {
             <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-[#a70e1b] dark:after:bg-[#ef4444]">Journal and Conference Reviewers</h2>
             <div>
               <ul className="text-base font-normal text-gray-700 dark:text-gray-200 list-disc ml-6 marker:text-[#a70e1b] dark:marker:text-[#ef4444]">
-                <li>INFORMS Journal on Data Science (IJDS), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Automation Science and Engineering (TASE), IISE Transactions, IISE Transactions on Healthcare Systems Engineering, IEEE Transactions on Artificial Intelligence (TAI), Computers & Industrial Engineering, IEEE Transactions on Emerging Topics in Computing Intelligence (TETC), IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
-                <li>ISMB/ECCB 2021, IEEE Intelligent Vehicles Symposium (IV) 2026, NeurIPS 2026</li>
+                <li>INFORMS Journal on Data Science (IJDS), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Automation Science and Engineering (TASE), IISE Transactions, IISE Transactions on Healthcare Systems Engineering, IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Emerging Topics in Computing (TETC), Computers & Industrial Engineering</li>
+                <li>ISMB/ECCB 2021, IEEE Intelligent Vehicles Symposium (IV) 2026, NeurIPS 2026, INFORMS Workshop on Data Mining and Decision Analytics 2026</li>
               </ul>
             </div>
             <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-[#a70e1b] dark:after:bg-[#ef4444]">Conference Organizing Activities</h2>
@@ -34,6 +34,7 @@ const ServiceList = (): JSX.Element => {
                 <li>Institute of Industrial and Systems Engineers (IISE)</li>
                 <li>Institute of Electrical and Electronics Engineers (IEEE)</li>
                 <li>American Statistical Association (ASA) </li>
+                <li>Association for Computing Machinery (ACM)</li>
               </ul>
             </div>
         </section>
