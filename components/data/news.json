@@ -1,5 +1,9 @@
 [   
     {
+        "date": "11-02-2026",
+        "description": "Our session \"Integration of Human, Knowledge and Systems for Quality and Personalized Decision-making\" returned to INFORMS 2026 for its third year. Our speakers included Haoyang Li (Ph.D. student at University of Virginia), Ziyang Zhang (Ph.D. student at New Jersey Institute of Technology), Dr. Kehua Chen (University of Washington), Sitong Yang (Ph.D. student at Clemson University), and Dr. Yunkai Zhang (Waymo). Thank you to all our speakers for their insightful and inspiring talks!"
+    },
+    {
         "date": "09-25-2026",
         "description": "Our paper \"Mixture-of-Chains: Learning Causal Graphs from Human Knowledge\" was accepted by NeurIPS 2026."
     },
