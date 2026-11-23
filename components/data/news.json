@@ -29,14 +29,14 @@
     },
     {
         "date": "02-13-2026",
-        "description": "Our paper \"A Rawlsian Mixed Integer Programming Approach for Fair Classification\" was accepted by the refereed proceedings of the INFORMS Optimization Society Coference 2026."
+        "description": "Our paper \"A Rawlsian Mixed Integer Programming Approach for Fair Classification\" was accepted by the refereed proceedings of the INFORMS Optimization Society Conference 2026."
     },
     {
         "date": "01-24-2026",
         "description": "Our ALARM paper was accepted by INFORMS Journal on Data Science."
     },
     {
-        "date": "01-13-2025",
+        "date": "01-13-2026",
         "description": "Our paper \"Guiding Generative Recommenders with Structured Human Priors via Multi-Head Decoding\" was accepted by WWW (The ACM Web Conf) 2026."
     },
     {
@@ -57,11 +57,11 @@
     },
     {
         "date": "10-28-2025",
-        "description": "I chaired a session at INFORMS 2025 titled \"Integration of Human, Knowledge and Systems for Quality and Personalized Decision-making\". Our speakers include Dr. Guoyan Li (Senior Data Scientist at Coherent Corp.), Dr. Menghan Liu (Assistant Professor of Instruction at University of Iowa), myself, Hanming Zhao (Ph.D. student at City University of Hong Kong), Dr. Alan Vazquez (Assistant Professor at Tecnologico de Monterrey). Thanks for their interesting and inspiring talks! Thanks to our co-chairs Dr. Alan Vazquez, Hanming Zheng and Dr. Jiajing Huang, for co-organizing the session!"
+        "description": "I chaired a session at INFORMS 2025 titled \"Integration of Human, Knowledge and Systems for Quality and Personalized Decision-making\". Our speakers include Dr. Guoyan Li (Senior Data Scientist at Coherent Corp.), Dr. Menghan Liu (Assistant Professor of Instruction at University of Iowa), myself, Hanming Zheng (Ph.D. student at City University of Hong Kong), Dr. Alan Vazquez (Assistant Professor at Tecnologico de Monterrey). Thanks for their interesting and inspiring talks! Thanks to our co-chairs Dr. Alan Vazquez, Hanming Zheng and Dr. Jiajing Huang, for co-organizing the session!"
     },
     {
         "date": "10-27-2025",
-        "description": "Our \"CrowdLLM\" paper won the Honorable Mention (Runner-up) in the 2025 INFORMS QSR Best Paper Competition. Huge congratulations to our team and thanks all my coauthors for the great efforts!"
+        "description": "Our \"CrowdLLM\" paper won the Honorable Mention (Runner-up) in the 2025 INFORMS QSR Best Paper Competition. Huge congratulations to our team and thanks to all my coauthors for the great efforts!"
     },
     {
         "date": "10-26-2025",
@@ -69,7 +69,7 @@
     },
     {
         "date": "10-26-2025",
-        "description": "I co-chaired a session with Dr. Jiajing Huang (Asssistant Professor at Kennesaw State University) at INFORMS 2025 titled \" Data-Driven vs. Rule-Based: Bridging the Gap for Real-World Applications\". Our speakers include Dr. Feng Ye (Assistant Professor at Clemson Universityy), Dr. Jieqiong Zhao (Asssistant Professor at Augusta University), Lingtao Chen (Ph.D. student at Kennesaw State University), Zakaria Elghazzali (Undergraduate student at Kennesaw State University), Nzubechukwu Ohalete (Ph.D. Candidate at Kennesaw State University). Thanks for their interesting and inspiring talks!"
+        "description": "I co-chaired a session with Dr. Jiajing Huang (Assistant Professor at Kennesaw State University) at INFORMS 2025 titled \"Data-Driven vs. Rule-Based: Bridging the Gap for Real-World Applications\". Our speakers include Dr. Feng Ye (Assistant Professor at Clemson University), Dr. Jieqiong Zhao (Assistant Professor at Augusta University), Lingtao Chen (Ph.D. student at Kennesaw State University), Zakaria Elghazzali (Undergraduate student at Kennesaw State University), Nzubechukwu Ohalete (Ph.D. Candidate at Kennesaw State University). Thanks for their interesting and inspiring talks!"
     },
     {
         "date": "09-12-2025",
@@ -81,7 +81,7 @@
     },
     {
         "date": "10-22-2024",
-        "description": "I chaired a session at INFORMS 2024 titled \"Integration of Human, Knowledge and Systems for Quality\". Our speakers include Dr. Jundi Liu (Assistant Professor at Iowa State University), Hanming Zheng (Ph.D. student at City University of Hong Kong), Dr. Hongru Du (Assistant Professor at University of Virginia, previsouly Ph.D. candidate at Johns Hopkins University), Dr. William Yang (Postdoc at Lawrence Livermore National Laboratory), Yating Fang (Ph.D. Candidate at Rutgers University). Thanks for their interesting and inspiring talks!"
+        "description": "I chaired a session at INFORMS 2024 titled \"Integration of Human, Knowledge and Systems for Quality\". Our speakers include Dr. Jundi Liu (Assistant Professor at Iowa State University), Hanming Zheng (Ph.D. student at City University of Hong Kong), Dr. Hongru Du (Assistant Professor at University of Virginia, previously Ph.D. candidate at Johns Hopkins University), Dr. William Yang (Postdoc at Lawrence Livermore National Laboratory), Yating Fang (Ph.D. Candidate at Rutgers University). Thanks for their interesting and inspiring talks!"
     },
     {
         "date": "10-21-2024",
@@ -99,10 +99,10 @@
     
     {
         "date": "09-24-2023",
-        "description": "Our RobustLDT paper was accepted by IISE transactions."
+        "description": "Our RobustLDT paper was accepted by IISE Transactions."
     },
     {
         "date": "09-15-2023",
-        "description": "Our FairCL paper was selected as a finalist of INFORMS QSR best paper competition. Congratulations!"
+        "description": "Our FairCL paper was selected as a finalist of the INFORMS QSR best paper competition. Congratulations!"
     }
 ]
