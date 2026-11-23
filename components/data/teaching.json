@@ -9,15 +9,11 @@
         "links": [
 			{
 				"name": "syllabus",
-				"url": ""
-			},
-			{
-				"name": "website",
-				"url": ""
+				"url": "/IND_E_315_Syllabus_Summer_2026.pdf"
 			},
             		{
 				"name": "textbook",
-				"url": ""
+				"url": "https://www.wiley.com/en-us/shop/general-introductory-industrial-engineering/applied-statistics-and-probability-for-engineers-7th-edition-p-9781119400363"
 			}
 		]
     },

@@ -14,12 +14,12 @@ const TeachingList = (): JSX.Element => {
               supported, and experience a profound sense of meaning and belonging. Together, we explore, use, and reflect on 
               advanced technologies in a friendly, collaborative environment to improve quality of life and make a meaningful impact on society.</p>
             </div>
-            {/* <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught at Mississippi State University</h2>
-            <div> 
+            <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught at Mississippi State University</h2>
+            <div>
               {datam.map((teaching, index) => (
                 <TeachingItemMSU teaching={teaching} index={index} key={index}/>
               ))}
-            </div> */}
+            </div>
             <h2 className="text-xl font-bold mt-12 mb-4">Courses Taught at University of Washington</h2>
             <div>
             {data.slice(0, 1).map((teaching, index) => (
