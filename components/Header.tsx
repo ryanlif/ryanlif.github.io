@@ -36,7 +36,10 @@ const Header = ({mounted, resolvedTheme, setTheme, scrolled}: HeaderProps): JSX.
                             setTheme(resolvedTheme === 'light' ? 'dark' : 'light');
                         }}>
                         <abbr title="Switch theme">
-                            {resolvedTheme === 'light' ? (
+                            {/* The theme is only known in the browser; render a same-size placeholder until then so server and client HTML match. */}
+                            {!mounted ? (
+                                <span className="block" style={{width: 22, height: 22}}/>
+                            ) : resolvedTheme === 'light' ? (
                                 <Moon
                                     size={22}
                                     aria-label="Moon"
