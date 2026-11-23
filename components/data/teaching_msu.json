@@ -5,7 +5,12 @@
         "responsibility": "",
         "period": "Fall 2026",
         "active": true,
-        "description": "Three hours lecture. An introduction to the design and development of information systems for use in industrial engineering applications.",
-        "links": []
+        "description": "Three hours lecture. An introduction to the design and development of information systems for use in industrial engineering applications. The course covers Microsoft Excel, Power BI, Microsoft Access, and Microsoft SQL Server, with a brief introduction to AI for system design.",
+        "links": [
+            {
+                "name": "syllabus",
+                "url": "/IE_4933-6933_Syllabus_Fall_2026.pdf"
+            }
+        ]
     }
 ]
