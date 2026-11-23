@@ -31,9 +31,12 @@
             "link": "https://www.shuaihuang.info/"
         },
         "email": "ryanflin@ise.msstate.edu",
+        "lab": {
+            "name": "MAPLES Lab",
+            "link": "https://mapleslab.ryanflin.com/"
+        },
         "interest": {
-            "methodology": "Machine Learning and Artificial Intelligence, Uncertainty Quantification, Optimal Experimental Design",
-            "application": "Healthcare and Medicine, Transportation, Marketing"
+            "summary": "My research lies at the intersection of AI, statistics, and quality science, where I develop application-driven methodological frameworks for human-centered and personalized AI, with applications in healthcare, transportation, business and other sociotechnical systems."
         },
         "bsdeg": {
             "name": "Statistics",  
@@ -48,6 +51,38 @@
             "link": "https://en.ustc.edu.cn"
         }    
     },
+    "honors": [
+        {
+            "award": "Curtis Reusser Endowment Travel Award",
+            "detail": "UW ISE",
+            "date": "05/2026"
+        },
+        {
+            "award": "Winner, IISE DAIS Best Student Paper Competition",
+            "detail": "for the paper “Team-then-Trim (T2): An Assembly-Line LLM Framework for Synthetic Data Generation”",
+            "date": "03/2026"
+        },
+        {
+            "award": "Rising Star Fellow",
+            "detail": "2nd IOE-ISyE-MS&E Rising Stars Workshop",
+            "date": "03/2026"
+        },
+        {
+            "award": "Runner-up, INFORMS QSR Best Paper Competition",
+            "detail": "for the paper “CrowdLLM: A Synthetic Crowd of LLM-based Decision-Makers Augmented with Generative Models”",
+            "date": "09/2025"
+        },
+        {
+            "award": "Meta AI Mentorship Fellowship",
+            "detail": "",
+            "date": "09/2024 – 09/2025"
+        },
+        {
+            "award": "Finalist, INFORMS QSR Best Paper Competition",
+            "detail": "for the paper “Fair Collaborative Learning (FairCL): A Method to Improve Fairness amid Personalization”",
+            "date": "10/2023"
+        }
+    ],
     "love": "",
     "education": [
         {
