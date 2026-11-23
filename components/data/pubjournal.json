@@ -1,5 +1,37 @@
 [
 	{
+		"id": 6,
+		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Noelle So, Meera Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, and Shuai Huang",
+		"title": "LIFT: Agentic LLMs for Lifecycle-Based Workflow Testing in Healthcare Risk Prediction",
+		"conference": "",
+		"status": "Under review",
+		"year": "",
+		"note": "",
+		"links": [
+			{
+				"name": "Preprint",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 5,
+		"author": "Kehua Chen, <b>Ryan F. Lin</b>, Shucheng Zhang, and Yinhai Wang",
+		"title": "Deep Fictitious Play-Based Potential Differential Games for Learning Human-Like Interaction at Unsignalized Intersections",
+		"conference": "IEEE Transactions on Intelligent Transportation Systems",
+		"status": "",
+		"year": "2026",
+		"note": "",
+		"links": [
+			{
+				"name": "Paper",
+				"url": "https://ieeexplore.ieee.org/abstract/document/11663160"
+			}
+		]
+	},
+
+	{
 		"id": 4, 
 		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Keyu Tian$^{\\dagger}$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
 		"title": "CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models",
@@ -54,7 +86,7 @@
 		"id": 1,
 		"author": "<b>Ryan F. Lin</b>, Xiaoning Qian, Bobak Mortazavi, Zhangyang Wang, Shuai Huang, and Cynthia Chen",
 		"title": "Modeling User Choice Behavior under Data Corruption: Robust Learning of the Latent Decision Threshold Model",
-		"conference": "IISE transactions",
+		"conference": "IISE Transactions",
 		"status": "",
 		"year": "2024",
 		"note": "",

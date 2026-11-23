@@ -1,36 +1,5 @@
 [	
 	{
-		"id": 7,
-		"author": "Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao$^{\\dagger}$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xiaoning Qian, and Shuai Huang",
-		"title": "Mixture-of-Chains: Learning Causal Graphs from Human Knowledged",
-		"status": "Under review",
-		"conference": "",
-		"year": "",
-		"note": "",
-		"links": [
-			{
-				"name": "Preprint",
-				"url": ""
-			}
-		]
-	},
-	{
-		"id": 6,
-		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Noelle So, Meera Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, and Shuai Huang",
-		"title": "LIFT: Agentic LLMs for Lifecycle-Based Workflow Testing in Healthcare Risk Prediction",
-		"status": "Under review",
-		"conference": "",
-		"year": "",
-		"note": "",
-		"links": [
-			{
-				"name": "Preprint",
-				"url": ""
-			}
-		]
-	},
-	
-	{
 		"id": 5,
 		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao, Xiaoning Qian, and Shuai Huang",
 		"title": "Causal Discovery Should Embrace the Wisdom of the Crowd",
@@ -61,10 +30,25 @@
 		]
 	},
 	{
+		"id": 7,
+		"author": "Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao$^{\\dagger}$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xiaoning Qian, and Shuai Huang",
+		"title": "Mixture-of-Chains: Learning Causal Graphs from Human Knowledge",
+		"status": "",
+		"conference": "Advances in Neural Information Processing Systems (NeurIPS)",
+		"year": "2026",
+		"note": "",
+		"links": [
+			{
+				"name": "Paper",
+				"url": "https://neurips.cc/virtual/2026/loc/atlanta/poster/148842"
+			}
+		]
+	},
+	{
 		"id": 3,
 		"author": "William Yang, <b>Ryan F. Lin</b>, Chaoyue Zhao, and Shuai Huang",
 		"title": "A Rawlsian Mixed Integer Programming Approach for Fair Classification",
-		"status": "In Proc. of",
+		"status": "In Proc. of ",
 		"conference": "the INFORMS Optimization Society Conference 2026",
 		"year": "",
 		"note": "",
@@ -80,9 +64,9 @@
 		"id": 2, 
 		"author": "Yunkai Zhang, Qiang Zhang, Diji Yang, <b>Ryan F. Lin</b>, Ruizhong Qiu, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, and Zeyu Zheng",
 		"title": "Guiding Generative Recommender Systems via Structured Human Priors with Multi-head Decoding",
-		"status": "In Proc. of",
+		"status": "In Proc. of ",
 		"conference": "the ACM Web Conference (WWW) 2026",
-		"year": "2026",
+		"year": "",
 		"note": "Acceptance rate <u>$20.1\\%$</u> in the year of submission.",
 		"links": [
 			{
