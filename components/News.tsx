@@ -4,14 +4,14 @@ import data from './data/news.json'
 const News = (): JSX.Element => {
     return (
         <section className="grid" id="news">
-            <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-[#a70e1b] dark:after:bg-[#ef4444]">News</h2>
+            <h2 className="text-xl font-bold mt-12 mb-4 after:block after:w-10 after:h-[3px] after:mt-2 after:rounded-full after:bg-accent dark:after:bg-accent-glow dark:after:shadow-glow">News</h2>
             <div className="text-base ml-4 text-gray-700 dark:text-gray-300">
-                {/* <ul className="marker:text-[#a70e1b] dark:marker:text-[#ef4444] list-disc">
+                {/* <ul className="marker:text-highlight dark:marker:text-highlight-glow list-disc">
                   {data.map((updateInfo) => (
                      <li> <span className="dark:text-white"><b>{updateInfo.date}:</b></span> {updateInfo.description}</li>
                   ))}
                 </ul> */}
-                <ul className="marker:text-[#a70e1b] dark:marker:text-[#ef4444] list-disc">
+                <ul className="marker:text-highlight dark:marker:text-highlight-glow list-disc">
                     {data.slice(0, 8).map((updateInfo, index) => (
                         <li key={index}>
                         <span className="dark:text-white"><b>{updateInfo.date}:</b></span> {updateInfo.description}
@@ -25,7 +25,7 @@ const News = (): JSX.Element => {
                             Old News
                     </summary>
 
-                    <ul className="marker:text-[#a70e1b] dark:marker:text-[#ef4444] list-disc mt-3">
+                    <ul className="marker:text-highlight dark:marker:text-highlight-glow list-disc mt-3">
                     {data.slice(8).map((updateInfo, index) => (
                         <li key={index}>
                         <span className="dark:text-white"><b>{updateInfo.date}:</b></span> {updateInfo.description}

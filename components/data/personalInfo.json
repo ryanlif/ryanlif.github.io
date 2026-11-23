@@ -36,7 +36,9 @@
             "link": "https://mapleslab.ryanflin.com/"
         },
         "interest": {
-            "summary": "My research lies at the intersection of AI, statistics, and quality science, where I develop application-driven methodological frameworks for human-centered and personalized AI, with applications in healthcare, transportation, business and other sociotechnical systems."
+            "summary": "My research lies at the intersection of AI, statistics, and quality science, where I develop application-driven methodological frameworks for human-centered and personalized AI, with applications in healthcare, transportation, and other sociotechnical systems.",
+            "highlight": "human-centered and personalized AI",
+            "subtleHighlights": ["healthcare, transportation, and other sociotechnical systems"]
         },
         "bsdeg": {
             "name": "Statistics",  

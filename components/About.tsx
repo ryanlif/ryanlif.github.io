@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { Fragment } from 'react';
 
 import ExtLink from './ExtLink';
 import ProfileImage from './ProfileImage';
@@ -6,6 +7,10 @@ import SupportingBox from './SupportingBox';
 import personalInfo from './data/personalInfo.json'
 
 const About = (): JSX.Element => {
+	// Split the research summary around the highlighted phrases: the main one is marked strongly, the application fields lightly.
+	const {summary, highlight, subtleHighlights} = personalInfo.about.interest;
+	const escapeRegExp = (text: string) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+	const summaryParts = summary.split(new RegExp(`(${[highlight, ...subtleHighlights].map(escapeRegExp).join('|')})`));
 	return (
 		<section className="grid gap-12" id="about">
 			{/* Two columns on wider screens: the name sits above the text column, so the photo lines up with the first line of the bio. */}
@@ -15,7 +20,7 @@ const About = (): JSX.Element => {
 					<ProfileImage></ProfileImage>
 					<p className="text-base mt-4 font-bold text-gray-700 dark:text-gray-200 hover:underline"><span>Email:</span> <a href={`mailto:${personalInfo.about.email}`} className="text-base font-normal text-gray-700 dark:text-gray-200">{personalInfo.about.email}</a> </p>
 					<p className="text-base mt-1 font-bold text-gray-700 dark:text-gray-200">Phone: <span className="text-base font-normal text-gray-700 dark:text-gray-200">+1 (662) 325-7624</span></p>
-					<p className="text-base mt-1 font-bold text-gray-700 dark:text-gray-200">Lab: <a href={personalInfo.about.lab.link} target="_blank" rel="noopener noreferrer" className="text-base text-[#a70e1b] dark:text-[#ef4444] font-semibold hover:underline">{personalInfo.about.lab.name}</a></p>
+					<p className="text-base mt-1 font-bold text-gray-700 dark:text-gray-200">Lab: <a href={personalInfo.about.lab.link} target="_blank" rel="noopener noreferrer" className="text-base text-accent dark:text-accent-glow font-semibold hover:underline">{personalInfo.about.lab.name}</a></p>
 					<div className="mt-4">
 						<SupportingBox/>
 					</div>
@@ -28,8 +33,18 @@ const About = (): JSX.Element => {
 						Prior to this, I received my B.S. degrees in Statistics and Computer Science (dual degree) in 2017 and M.S. degree in Computer Science in 2020 from the University of Science and Technology of China (USTC).  
 					</p>
 					<p className = "text-xl font-bold text-gray-600 dark:text-gray-200 mt-4"> Research Interest: </p>
-					<p className = "text-base text-gray-500 dark:text-gray-100 mt-1">{personalInfo.about.interest.summary}</p>
-					<p className = "text-base italic text-gray-500 dark:text-gray-100 mt-2">Please see my lab website <ExtLink href={personalInfo.about.lab.link}><span className="text-[#a70e1b] dark:text-[#ef4444] font-semibold">{personalInfo.about.lab.name}</span></ExtLink> for more information.</p>
+					<p className = "text-base text-gray-500 dark:text-gray-100 mt-1">
+							{summaryParts.map((part, i) =>
+								part === highlight ? (
+									<span key={i} className="font-bold text-gray-700 dark:text-white">{part}</span>
+								) : subtleHighlights.includes(part) ? (
+									<span key={i} className="font-semibold text-gray-700 dark:text-white">{part}</span>
+								) : (
+									<Fragment key={i}>{part}</Fragment>
+								)
+							)}
+						</p>
+					<p className = "text-base italic text-gray-500 dark:text-gray-100 mt-2">Please see my lab website <ExtLink href={personalInfo.about.lab.link}><span className="text-accent dark:text-accent-glow font-semibold">{personalInfo.about.lab.name}</span></ExtLink> for more information.</p>
 					{/* <p className = "text-sm text-gray-400">
 						Under construction......<br/>
 						Re-architecting this site with some modern web technologies.

@@ -8,7 +8,7 @@ interface Props {
 const ProjectItem = ({project, index}: Props): JSX.Element => {
     return (
       // Every card has the same size; each figure is shown whole inside an equal-size white frame.
-      <div className="shadow-lg mb-8 mx-auto lg:w-11/12 rounded-lg overflow-hidden flex flex-col lg:flex-row lg:h-[21rem]">
+      <div className="shadow-lg dark:shadow-glow-soft mb-8 mx-auto lg:w-11/12 rounded-lg overflow-hidden flex flex-col lg:flex-row lg:h-[21rem]">
         <div className="bg-white flex items-center justify-center h-56 lg:h-full lg:w-5/12 shrink-0 p-4">
           <img className="max-h-full max-w-full object-contain" src={project.img} alt={project.title} />
         </div>
