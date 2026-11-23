@@ -1,21 +1,5 @@
 [
 	{
-		"id": 6,
-		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Noelle So, Meera Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, and Shuai Huang",
-		"title": "LIFT: Agentic LLMs for Lifecycle-Based Workflow Testing in Healthcare Risk Prediction",
-		"conference": "",
-		"status": "Under review",
-		"year": "",
-		"note": "",
-		"links": [
-			{
-				"name": "Preprint",
-				"url": ""
-			}
-		]
-	},
-
-	{
 		"id": 5,
 		"author": "Kehua Chen, <b>Ryan F. Lin</b>, Shucheng Zhang, and Yinhai Wang",
 		"title": "Deep Fictitious Play-Based Potential Differential Games for Learning Human-Like Interaction at Unsignalized Intersections",
@@ -30,14 +14,13 @@
 			}
 		]
 	},
-
 	{
-		"id": 4, 
+		"id": 4,
 		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Keyu Tian$^{\\dagger}$, Congjing Zhang$(\\star)$, Hanming Zheng, Li Zeng, and Shuai Huang",
 		"title": "CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models",
 		"conference": "INFORMS Journal on Data Science",
 		"status": "",
-		"year": "",
+		"year": "2026",
 		"note": "Runner-up of the 2025 INFORMS QSR best paper competition",
 		"links": [
 			{
@@ -50,14 +33,13 @@
 			}
 		]
 	},
-
 	{
 		"id": 3,
 		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang",
-		"title": "ALARM: <u>A</u>utomated <u>L</u>LM-Based <u>A</u>nomaly Detection in Complex-Envi<u>R</u>onment <u>M</u>onitoring with Uncertainty Quantification",
+		"title": "ALARM: Automated MLLM-Based Anomaly Detection in Complex-Environment Monitoring with Uncertainty Quantification",
 		"status": "",
 		"conference": "INFORMS Journal on Data Science",
-		"year": "",
+		"year": "2026",
 		"links": [
 			{
 				"name": "Paper",
@@ -65,7 +47,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 2,
 		"author": "<b>Ryan F. Lin</b>, Chaoyue Zhao, Xiaoning Qian, Kendra Vehik, and Shuai Huang",
@@ -81,7 +62,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 1,
 		"author": "<b>Ryan F. Lin</b>, Xiaoning Qian, Bobak Mortazavi, Zhangyang Wang, Shuai Huang, and Cynthia Chen",

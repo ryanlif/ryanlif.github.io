@@ -1,34 +1,4 @@
-[	
-	{
-		"id": 5,
-		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao, Xiaoning Qian, and Shuai Huang",
-		"title": "Causal Discovery Should Embrace the Wisdom of the Crowd",
-		"status": "Under review",
-		"conference": "",
-		"year": "",
-		"note": "",
-		"links": [
-			{
-				"name": "Preprint",
-				"url": "https://arxiv.org/abs/2603.02678"
-			}
-		]
-	},
-	{
-		"id": 4,
-		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, and Shuai Huang",
-		"title": "Team, then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation",
-		"status": "Under review",
-		"conference": "",
-		"year": "",
-		"note": "Finalist of the 2026 IISE DAIS Best Student Paper Competition",
-		"links": [
-			{
-				"name": "Preprint",
-				"url": "https://www.arxiv.org/abs/2602.04785"
-			}
-		]
-	},
+[
 	{
 		"id": 7,
 		"author": "Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao$^{\\dagger}$, <b>Ryan F. Lin</b>$^{\\dagger}$, Xiaoning Qian, and Shuai Huang",
@@ -36,11 +6,26 @@
 		"status": "",
 		"conference": "Advances in Neural Information Processing Systems (NeurIPS)",
 		"year": "2026",
-		"note": "",
+		"note": "Acceptance rate <u>$25.7\\%$</u> in the year of submission.",
 		"links": [
 			{
 				"name": "Paper",
 				"url": "https://neurips.cc/virtual/2026/loc/atlanta/poster/148842"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"author": "Yunkai Zhang, Qiang Zhang, Diji Yang, <b>Ryan F. Lin</b>, Ruizhong Qiu, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, and Zeyu Zheng",
+		"title": "Guiding Generative Recommender Systems via Structured Human Priors with Multi-head Decoding",
+		"status": "In Proc. of ",
+		"conference": "the ACM Web Conference (WWW) 2026",
+		"year": "",
+		"note": "Acceptance rate <u>$20.1\\%$</u> in the year of submission. Oral presentation (top <u>$9.4\\%$</u>).",
+		"links": [
+			{
+				"name": "Paper",
+				"url": "https://dl.acm.org/doi/10.1145/3774904.3792100"
 			}
 		]
 	},
@@ -59,23 +44,6 @@
 			}
 		]
 	},
-
-	{
-		"id": 2, 
-		"author": "Yunkai Zhang, Qiang Zhang, Diji Yang, <b>Ryan F. Lin</b>, Ruizhong Qiu, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, and Zeyu Zheng",
-		"title": "Guiding Generative Recommender Systems via Structured Human Priors with Multi-head Decoding",
-		"status": "In Proc. of ",
-		"conference": "the ACM Web Conference (WWW) 2026",
-		"year": "",
-		"note": "Acceptance rate <u>$20.1\\%$</u> in the year of submission.",
-		"links": [
-			{
-				"name": "Paper",
-				"url": "https://dl.acm.org/doi/10.1145/3774904.3792100"
-			}
-		]
-	},
-
 	{
 		"id": 1,
 		"author": "Junyuan Hong, Huanhuan Chen, and <b>Ryan F. Lin</b>",

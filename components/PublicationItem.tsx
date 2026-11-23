@@ -4,6 +4,7 @@ import ExtLink from './ExtLink';
 interface Props {
     publication: any;
     index: number;
+    prefix?: string;
 }
 
 declare global {
@@ -12,7 +13,7 @@ declare global {
   }
 }
 
-const PublicationItem = ({publication, index}: Props): JSX.Element => {
+const PublicationItem = ({publication, index, prefix = ''}: Props): JSX.Element => {
     const ref = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -28,7 +29,7 @@ const PublicationItem = ({publication, index}: Props): JSX.Element => {
     return (
         <div className = "mt-4 mb-8">
             <p className = "text-base text-gray-700 dark:text-gray-200">
-                [{index}] <span dangerouslySetInnerHTML={{ __html: publication.author }}/>{', '} <b><span dangerouslySetInnerHTML={{ __html: publication.title }}/></b><br/>
+                [{prefix}{index + 1}] <span dangerouslySetInnerHTML={{ __html: publication.author }}/>{', '} <b><span dangerouslySetInnerHTML={{ __html: publication.title }}/></b><br/>
                 <span className = "text-base">{publication.status}<i>{publication.conference}</i>{publication.year && ', '}<span className="text-base">{publication.year}</span></span>
             </p>
             <p className = "text-base bold text-gray-700 dark:text-gray-200 flex justify-between items-center">

@@ -1,0 +1,52 @@
+[
+	{
+		"id": 4,
+		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Ruoxuan Bao, Houtao Deng, and Shuai Huang",
+		"title": "Team-then-Trim (T2): An Assembly-Line LLM Framework for Synthetic Data Generation",
+		"status": "Under review at ",
+		"conference": "IISE Transactions",
+		"year": "",
+		"note": "Winner of the 2026 IISE DAIS Best Student Paper Competition",
+		"links": [
+			{
+				"name": "Preprint",
+				"url": "https://www.arxiv.org/abs/2602.04785"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"author": "Congjing Zhang$^{\\dagger}(\\star)$, <b>Ryan F. Lin</b>$^{\\dagger}$, Noelle So, Meera Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, and Shuai Huang",
+		"title": "LIFT: Agentic LLMs for Lifecycle-Based Workflow Testing in Healthcare Risk Prediction",
+		"status": "Under review",
+		"conference": "",
+		"year": "",
+		"note": "",
+		"links": []
+	},
+	{
+		"id": 9,
+		"author": "Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao$^{\\dagger}$, <b>Ryan F. Lin</b>, Congjing Zhang, Xiaoning Qian, and Shuai Huang",
+		"title": "Bayesian DAG-IRT: Aggregating Expert Judgments for Causal Graph Recovery",
+		"status": "Under review at ",
+		"conference": "the 30th Annual Conference on Artificial Intelligence and Statistics (AISTATS)",
+		"year": "",
+		"note": "Average acceptance rate around <u>$29.0\\%$</u> in the past 5 years.",
+		"links": []
+	},
+	{
+		"id": 5,
+		"author": "<b>Ryan F. Lin</b>$^{\\dagger}$, Yuantao Wei$^{\\dagger}(\\star)$, Huiling Liao, Xiaoning Qian, and Shuai Huang",
+		"title": "Causal Discovery Should Embrace the Wisdom of the Crowd",
+		"status": "arXiv preprint arXiv:2603.02678",
+		"conference": "",
+		"year": "",
+		"note": "",
+		"links": [
+			{
+				"name": "Preprint",
+				"url": "https://arxiv.org/abs/2603.02678"
+			}
+		]
+	}
+]

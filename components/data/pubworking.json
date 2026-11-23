@@ -1,44 +1,52 @@
 [
 	{
 		"id": 3,
-		"author": "<b>Ryan F. Lin</b>, Ji Liu, and Shuai Huang",
+		"author": "<b>Ryan F. Lin</b>, Hanming Zheng, Ji Liu, Li Zeng, and Shuai Huang",
 		"title": "Learning to Collect: A Two-Stage Data Collection Framework for Data-Efficient Personalization",
-		"status": "In submission to ",
-		"conference": "INFORMS Journal on Data Science",
-		"links": [
-			{
-				"name": "Preprint",
-				"url": ""
-			}
-		]
+		"status": "To be submitted to ",
+		"conference": "Technometrics",
+		"year": "",
+		"note": "",
+		"links": []
 	},
-
 	{
-		"id": 2,
-		"author": "<b>Ryan F. Lin</b>, Xufeng Cai, Lei Yuan, Boying Liu, Ali Selman Aydin, Ziwei Guan, Wenbo Ren, Yuting Zhang, Qunshu Zhang, Shuai Huang, Yinglong Xia, and Ji Liu",
-		"title": "Robust Contextual Optimization for Personalization",
+		"id": 8,
+		"author": "Chunli Peng$^{\\dagger}$, <b>Ryan F. Lin</b>$^{\\dagger}$, Siyuan Xu, Wei-Chien Kao, Congjing Zhang, Yuantao Wei, Jundi Liu, Huiling Liao, Shuai Huang, and Xiaoning Qian",
+		"title": "TwinPlan: Evidence-Supported Personalized Health Planning via LLM Agents and Digital-Twin Simulation",
 		"status": "",
 		"conference": "",
-		"links": [
-			{
-				"name": "Preprint coming soon...",
-				"url": ""
-			}
-		]
+		"year": "",
+		"note": "",
+		"links": []
 	},
-
+	{
+		"id": 4,
+		"author": "Hanming Zheng, <b>Ryan F. Lin</b>, Shuai Huang, and Li Zeng",
+		"title": "A Unified Framework for Crowdsourcing Quality Control: Identifiability and Estimation of Worker-Granularity Mixture Models",
+		"status": "To be submitted to ",
+		"conference": "Technometrics",
+		"year": "",
+		"note": "",
+		"links": []
+	},
 	{
 		"id": 1,
 		"author": "<b>Ryan F. Lin</b>, Guang Zhao, Xiaoning Qian, and Shuai Huang",
 		"title": "Relieving the Myopia: Bayesian Active Learning by Mean Objective Cost of Uncertainty with Confidence Ascending",
-		"status": "",
-		"conference": "",
+		"status": "To be submitted to ",
+		"conference": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+		"year": "",
 		"note": "",
-		"links": [
-			{
-				"name": "Preprint coming soon...",
-				"url": ""
-			}
-		]
+		"links": []
+	},
+	{
+		"id": 5,
+		"author": "Siyuan Xu, Jundi Liu, Chunli Peng, <b>Ryan F. Lin</b>, Congjing Zhang$(\\star)$, Yuantao Wei$(\\star)$, Shuai Huang, and Xiaoning Qian",
+		"title": "Digital-Twin-Augmented Health Assistants for Wearable Data: Personalized Modeling and Verifiable Prediction",
+		"status": "To be submitted to ",
+		"conference": "Nature Health",
+		"year": "",
+		"note": "",
+		"links": []
 	}
 ]
